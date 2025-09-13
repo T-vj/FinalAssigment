@@ -1,0 +1,33 @@
+id_nasabah
+riwayat_kredit
+jumlah_pinjaman
+pendapatan_bulanan
+usia_nasabah
+status_pekerjaan
+credit_score
+tanggal_data
+
+id_nasabah-Row_number
+
+Jumlah_pinjaman-Formula
+([[ round(normal_dist(10, 3, 0)), 100 ].min, 5 ].max) * 1_000_000
+
+Pendapatan_bulanan -
+(( field('jumlah_pinjaman') * (1 + ( [ [ normal_dist(0.15,0.03,3), 0.20 ].min, 0.10 ].max ) * ( normal_dist(0,1,0) >= 0 ? 1 : -1 ) ) ) / 1_000_000.0).round * 1_000_000
+
+Usia_Nasabah - Formula
+[[ normal_dist(36, 13, 0), 90 ].min, 18 ].max
+
+Status_Pekerjaan - Custom List
+karyawan_swasta:35
+Wirausaha:55
+PNS:10
+
+Credit_Score - Formula
+round(   [ [ normal_dist(700, 80, 0), 850 ].min, 300 ].max )
+
+Riwayat_Kredit-Formula
+score=field('Credit_Score');u=(([[normal_dist(0,1,3)+3,6].min,0].max)/6.0);norm=([[ (score-300.0)/550.0,1].min,0].max);p=0.2+0.7*norm;u<p ? 'good' : 'bad'
+
+tanggal_data -datetime yyyy-mm-dd
+
