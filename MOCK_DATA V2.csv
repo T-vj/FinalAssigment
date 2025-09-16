@@ -1,0 +1,1001 @@
+id_transaksi,id_rekening,nama,alamat,jumlah_pinjaman,pendapatan_bulanan,usia_nasabah,status_pekerjaan,Credit_Score,riwayat_kredit,tanggal_data
+1,926877591,Bert Bugden,3 Mccormick Center,7000000,6000000,36,karyawan_swasta,732,baik,2024-12-02
+2,916919299,Nico Gentil,92 Sherman Trail,8000000,7000000,36,karyawan_swasta,663,baik,2025-06-13
+3,929973272,Melicent Filipowicz,34 Grover Plaza,5000000,6000000,43,wirausaha,750,buruk,2025-09-14
+4,924326792,Bronson Cohane,9 Stone Corner Way,6000000,7000000,22,wirausaha,692,buruk,2025-06-27
+5,934157010,Leshia Tickle,621 Nancy Court,6000000,7000000,61,wirausaha,624,baik,2025-04-18
+6,937803805,Alissa Kirkebye,43 Hudson Road,7000000,6000000,29,karyawan_swasta,766,baik,2025-04-18
+7,928020362,Sharity Burdell,08 Nova Lane,12000000,14000000,22,wirausaha,735,baik,2024-12-25
+8,965890196,Jami Dove,21 Upham Lane,16000000,19000000,29,karyawan_swasta,676,baik,2025-05-02
+9,926209341,Cariotta Vezey,592 Vahlen Trail,10000000,12000000,35,wirausaha,621,baik,2025-06-13
+10,954059002,Vonnie Parren,78344 Drewry Trail,6000000,7000000,72,karyawan_swasta,780,baik,2025-01-30
+11,976099354,Quintus Hew,86 Lukken Drive,11000000,9000000,31,wirausaha,783,baik,2025-07-07
+12,916802112,Lidia Oxbe,20 Warner Avenue,10000000,12000000,57,wirausaha,533,baik,2024-10-22
+13,916817225,Daria Rothermel,2377 Dovetail Pass,9000000,10000000,50,wirausaha,741,baik,2025-02-17
+14,997555478,Gwenora Micah,92 Heath Court,13000000,11000000,47,karyawan_swasta,608,buruk,2025-03-11
+15,946023893,Dorris Ebbens,363 Steensland Park,12000000,13000000,30,karyawan_swasta,596,baik,2024-12-30
+16,979124160,Jarvis Postins,5458 Tennyson Road,10000000,11000000,42,wirausaha,654,baik,2025-01-11
+17,964896795,Jana Chumley,15 Farmco Way,10000000,11000000,25,karyawan_swasta,765,baik,2025-08-08
+18,900195235,Jacquetta Grimsdike,223 Pankratz Lane,10000000,11000000,24,pns,803,baik,2025-07-26
+19,924498864,Anatollo Sweeting,0039 Arapahoe Circle,6000000,5000000,28,karyawan_swasta,720,baik,2025-08-14
+20,901987054,Christel Cabbell,62482 Longview Trail,8000000,9000000,34,karyawan_swasta,649,baik,2025-08-13
+21,996261356,Dannie Divill,477 Nelson Junction,9000000,11000000,39,pns,593,baik,2024-11-23
+22,921271130,Philippa Karpenko,0 Washington Plaza,12000000,14000000,38,karyawan_swasta,594,buruk,2024-12-31
+23,948349697,Beverlee Elsom,403 Forster Alley,9000000,10000000,33,wirausaha,745,baik,2024-12-07
+24,923022183,Anna Smitton,4 8th Parkway,11000000,13000000,31,wirausaha,650,buruk,2024-12-05
+25,936346978,Gilberta Matthiae,3 Hayes Parkway,10000000,11000000,42,karyawan_swasta,754,baik,2025-01-25
+26,930025727,Tiffanie Comello,5 Surrey Lane,6000000,7000000,18,karyawan_swasta,625,baik,2025-03-07
+27,994344529,Lorianna Sjostrom,65 Stoughton Alley,9000000,10000000,23,wirausaha,767,baik,2025-04-14
+28,929231289,Portia Skrine,8358 Banding Crossing,10000000,12000000,62,karyawan_swasta,770,baik,2025-02-09
+29,990760464,Barbee Wattinham,9427 Homewood Terrace,10000000,11000000,56,wirausaha,669,baik,2025-03-06
+30,915224148,Daile Ussher,84642 Myrtle Avenue,7000000,8000000,34,wirausaha,711,baik,2025-04-10
+31,963118674,Melissa McDonell,08626 American Pass,10000000,12000000,33,wirausaha,798,buruk,2024-11-30
+32,933176553,Camel Keen,61 Mockingbird Drive,9000000,10000000,40,wirausaha,657,baik,2024-10-27
+33,949785309,Kahlil Lambirth,79652 Cascade Drive,13000000,15000000,56,wirausaha,805,baik,2024-12-26
+34,971407709,Saree Sturror,11 Kipling Avenue,9000000,8000000,47,wirausaha,663,baik,2025-03-29
+35,960590998,Ephraim Kolodziejski,04352 Charing Cross Crossing,12000000,14000000,38,wirausaha,646,baik,2025-04-08
+36,926662115,Marve Crawshay,6 Artisan Circle,8000000,7000000,29,wirausaha,681,baik,2024-11-21
+37,911246841,Olimpia Castletine,261 Goodland Lane,9000000,10000000,23,wirausaha,635,baik,2024-11-18
+38,983396407,Carissa Restill,236 Graceland Point,8000000,9000000,47,wirausaha,742,baik,2024-11-15
+39,915653686,Evered Lindhe,783 Farragut Terrace,17000000,14000000,33,karyawan_swasta,850,baik,2025-05-05
+40,981603305,Casar Trowell,4858 Bellgrove Crossing,10000000,11000000,34,karyawan_swasta,741,baik,2025-03-02
+41,923076812,Shela Shave,9144 Jenna Place,5000000,6000000,18,karyawan_swasta,698,buruk,2025-03-28
+42,926460556,Lydie Ellen,5356 Surrey Court,11000000,13000000,38,pns,592,baik,2025-01-26
+43,928454525,Melantha Rice,5374 Hauk Pass,5000000,6000000,30,wirausaha,788,baik,2024-09-29
+44,916720740,Raynard Andrivel,945 Bay Alley,13000000,11000000,34,wirausaha,850,baik,2025-05-11
+45,947826033,Luise Saberton,42141 Talmadge Avenue,16000000,18000000,49,wirausaha,830,baik,2025-02-15
+46,979092974,Marna Adolphine,7263 Namekagon Junction,9000000,11000000,21,wirausaha,658,baik,2024-12-20
+47,979229874,Wynn Stirrip,33 Kings Crossing,7000000,8000000,18,wirausaha,673,baik,2025-05-15
+48,914996624,Cherri Chavez,16854 Fordem Park,9000000,8000000,18,karyawan_swasta,595,baik,2025-08-16
+49,967839390,Jenilee Pepin,1302 Killdeer Alley,14000000,16000000,38,karyawan_swasta,670,buruk,2025-09-03
+50,919791564,Rennie Garrity,6 Arapahoe Plaza,11000000,13000000,34,karyawan_swasta,652,baik,2025-07-12
+51,982200941,Ileane McKernan,9224 Corscot Center,6000000,7000000,23,karyawan_swasta,816,baik,2025-06-11
+52,928614374,Damita Branwhite,4 Michigan Parkway,10000000,11000000,46,wirausaha,665,baik,2025-05-25
+53,909090708,Lari Pedrocchi,65305 Barby Road,10000000,12000000,24,karyawan_swasta,733,baik,2025-01-25
+54,974075052,Linoel Lathaye,3 Monica Junction,14000000,12000000,18,wirausaha,766,baik,2025-04-26
+55,918187327,Rodi Huetson,64 Graedel Lane,6000000,7000000,19,wirausaha,843,baik,2025-02-26
+56,923713002,Chanda Jickles,63 Washington Point,11000000,13000000,25,karyawan_swasta,519,buruk,2025-09-01
+57,955772044,Tamarra Randell,26 Mesta Parkway,11000000,9000000,21,karyawan_swasta,822,baik,2025-07-09
+58,907489979,Dolorita Cuolahan,10 Ronald Regan Parkway,10000000,9000000,36,pns,802,buruk,2025-03-05
+59,901430965,Chrystel Mather,2549 Express Crossing,10000000,8000000,18,karyawan_swasta,626,buruk,2025-06-27
+60,917451816,Richmond Cowely,04018 Bultman Center,10000000,9000000,32,wirausaha,739,baik,2024-11-29
+61,931597742,Homer MacNab,154 Buena Vista Court,10000000,11000000,46,pns,619,baik,2024-10-29
+62,950916124,Letitia Petrina,08022 Oak Valley Trail,11000000,12000000,43,wirausaha,607,baik,2025-03-18
+63,950814899,Eugen Ruppele,171 Mcbride Drive,10000000,12000000,34,wirausaha,754,baik,2025-08-04
+64,959872056,Wenonah Hawse,16791 Raven Court,13000000,11000000,45,karyawan_swasta,740,baik,2024-10-02
+65,934215600,Myra Soots,8 5th Lane,6000000,7000000,42,karyawan_swasta,612,buruk,2025-05-01
+66,954239633,Marcia Ackerley,8 Scofield Circle,8000000,9000000,34,wirausaha,691,baik,2025-06-16
+67,984521383,Stefanie Mattessen,8374 Memorial Trail,10000000,11000000,22,wirausaha,833,baik,2025-04-22
+68,916769246,Neilla Kiffin,33894 Chinook Center,5000000,6000000,40,wirausaha,777,baik,2025-08-17
+69,944334005,Cheryl Danson,2 Fordem Drive,11000000,13000000,29,karyawan_swasta,802,baik,2025-02-21
+70,901001099,Geri Oldfield-Cherry,27 Goodland Terrace,11000000,13000000,32,wirausaha,602,baik,2024-10-01
+71,957131929,Maurene Wilfling,0187 Basil Circle,10000000,8000000,18,wirausaha,850,baik,2025-03-08
+72,956501427,Lida Huntriss,0403 Lukken Crossing,12000000,13000000,48,wirausaha,685,baik,2025-06-05
+73,973691851,Yelena Tertre,05 Johnson Hill,5000000,6000000,48,karyawan_swasta,700,baik,2025-02-16
+74,911643738,Gloriana Fitzsymons,0 Holmberg Terrace,11000000,12000000,35,pns,632,baik,2024-10-11
+75,955176301,Yulma Simnel,74 Redwing Park,12000000,14000000,34,pns,756,baik,2025-05-25
+76,992710548,Nefen Boni,36 Hansons Terrace,12000000,14000000,33,wirausaha,672,baik,2025-05-29
+77,908539911,Vikky Plaxton,14 Arizona Street,10000000,12000000,59,wirausaha,796,baik,2025-09-03
+78,913311577,Chariot Fooks,5664 Badeau Crossing,7000000,8000000,35,pns,560,baik,2024-12-15
+79,938835530,Harbert Yerlett,392 Nova Place,12000000,13000000,23,karyawan_swasta,761,baik,2025-05-23
+80,927906204,Clerkclaude Petru,471 Cherokee Circle,7000000,8000000,21,karyawan_swasta,696,buruk,2024-10-13
+81,961853988,Consolata Bounde,51 Anderson Court,5000000,4000000,61,karyawan_swasta,701,baik,2025-01-05
+82,957140062,Evangeline Dyers,2414 Stone Corner Terrace,8000000,9000000,28,karyawan_swasta,701,buruk,2025-04-15
+83,993564247,Veradis Baurerich,674 Golf Lane,11000000,10000000,53,wirausaha,613,baik,2025-02-05
+84,933976192,Gabriela Rice,0 Menomonie Point,14000000,16000000,18,pns,820,baik,2025-02-28
+85,948154910,Hermina Gruczka,1 Dottie Park,7000000,8000000,18,pns,615,buruk,2025-05-29
+86,917277068,Sinclare Churchman,05 Bartelt Plaza,13000000,16000000,41,wirausaha,753,baik,2025-02-23
+87,990260225,Aila Vollam,813 Fremont Center,11000000,12000000,59,karyawan_swasta,763,baik,2024-12-24
+88,957036877,Antonina Kalf,3 Meadow Ridge Circle,8000000,6000000,38,wirausaha,719,baik,2025-07-08
+89,920470970,Neill Cavie,757 Gina Alley,6000000,7000000,33,wirausaha,675,buruk,2024-09-27
+90,904123890,Spencer Callingham,148 Valley Edge Trail,11000000,10000000,18,karyawan_swasta,826,baik,2025-03-17
+91,974334127,Huey Stuckow,00 South Plaza,7000000,6000000,39,karyawan_swasta,608,baik,2025-05-28
+92,903856779,Joscelin Grinter,719 Reinke Circle,8000000,7000000,29,wirausaha,758,buruk,2025-04-29
+93,936766023,Lev Kissick,25 Leroy Terrace,10000000,12000000,23,wirausaha,618,baik,2024-11-28
+94,957563453,Hanny Pacht,83 Kennedy Junction,9000000,11000000,56,wirausaha,777,baik,2025-08-06
+95,985291721,Julia Quadrio,7 Northwestern Crossing,5000000,4000000,43,wirausaha,676,baik,2025-05-30
+96,909638755,Stephanus Cash,0129 Macpherson Pass,12000000,10000000,51,wirausaha,850,baik,2025-02-17
+97,941750268,Leon Quinion,3084 Tennyson Court,10000000,11000000,21,karyawan_swasta,689,baik,2024-11-15
+98,932120392,Amandi Panketh,91 Lindbergh Avenue,12000000,10000000,40,wirausaha,749,baik,2025-04-29
+99,927047633,Austine Rubinsztein,55098 Dryden Junction,8000000,7000000,19,karyawan_swasta,611,buruk,2025-07-14
+100,982070573,Ode Bugbee,745 Coolidge Trail,8000000,7000000,57,wirausaha,602,buruk,2025-04-29
+101,977025473,Ariadne Farries,4715 Mallory Road,6000000,7000000,30,karyawan_swasta,666,baik,2025-01-09
+102,946808284,Lura Piet,094 Lakewood Gardens Road,12000000,14000000,32,wirausaha,705,baik,2024-10-18
+103,906393794,Hillie Lamplough,8 Almo Pass,10000000,9000000,18,wirausaha,758,baik,2025-04-08
+104,937259790,Cristina Ratke,05518 Messerschmidt Trail,9000000,11000000,38,wirausaha,629,baik,2025-07-10
+105,961557372,Luca Sidnall,024 Beilfuss Road,10000000,8000000,46,karyawan_swasta,732,baik,2025-03-02
+106,994089484,Kristy Croston,316 Bellgrove Lane,8000000,6000000,29,pns,681,baik,2024-11-29
+107,914490748,Obidiah MacCaughey,0898 Mandrake Lane,9000000,10000000,53,wirausaha,736,baik,2025-07-20
+108,905534790,Elora Hause,63132 Bunting Alley,8000000,9000000,31,wirausaha,625,buruk,2024-09-24
+109,912821371,Dionisio Skamell,839 Lyons Crossing,12000000,11000000,23,wirausaha,646,baik,2025-08-02
+110,988327220,Bonny Loiterton,89124 American Crossing,13000000,14000000,23,wirausaha,577,baik,2025-04-21
+111,952375752,Mag Larwood,9 Superior Junction,11000000,9000000,34,wirausaha,819,baik,2025-02-12
+112,993325759,Darby O'Shevlan,3083 Bunker Hill Street,6000000,7000000,31,wirausaha,732,baik,2025-09-07
+113,964541827,Danielle Stoneham,52 Garrison Point,11000000,10000000,43,wirausaha,662,baik,2025-05-29
+114,904919193,Nathalie Gariff,6 Raven Junction,9000000,8000000,50,karyawan_swasta,704,baik,2025-08-27
+115,946834655,Tomasine D'Cruze,41880 Menomonie Drive,10000000,8000000,27,wirausaha,654,baik,2024-11-06
+116,918260788,Osbourn Strond,42 Moose Avenue,12000000,13000000,60,karyawan_swasta,668,baik,2024-11-25
+117,943481208,Kalila Washbrook,401 Tomscot Point,15000000,17000000,34,karyawan_swasta,632,baik,2025-08-25
+118,963412319,Belicia Caslane,2 Rieder Parkway,7000000,8000000,34,wirausaha,760,baik,2024-12-16
+119,907823053,Tara Kisbey,38505 Quincy Way,12000000,13000000,18,wirausaha,522,baik,2024-10-05
+120,959588766,Phillipp Simco,1 Muir Center,6000000,5000000,40,wirausaha,666,baik,2025-05-06
+121,922003969,Davina Lody,4793 Pepper Wood Circle,11000000,9000000,32,karyawan_swasta,817,baik,2025-02-11
+122,929976439,Farrand Armal,085 Independence Park,8000000,9000000,66,karyawan_swasta,725,baik,2024-11-13
+123,990052707,Kristoffer Brachell,3 Mitchell Road,11000000,13000000,47,karyawan_swasta,760,baik,2025-03-09
+124,909404306,Johannes Duffree,7 Forster Drive,12000000,14000000,27,karyawan_swasta,814,buruk,2025-01-30
+125,964040847,Skelly Peachman,49572 Sunfield Way,5000000,6000000,58,karyawan_swasta,812,baik,2025-04-21
+126,960942413,Nicolis Tenwick,6907 Northfield Crossing,12000000,10000000,31,wirausaha,748,baik,2025-03-30
+127,963126955,Lilias Fillis,7 Goodland Point,9000000,8000000,19,pns,682,baik,2025-08-16
+128,940322751,Aleece Oby,3732 Mandrake Alley,11000000,9000000,43,pns,623,baik,2025-05-31
+129,969755253,Cordelia Hurdwell,0086 Nelson Plaza,10000000,8000000,26,wirausaha,730,baik,2025-02-09
+130,912882100,Chet Vivians,6185 Fairfield Alley,13000000,15000000,38,karyawan_swasta,672,baik,2025-01-07
+131,953337710,Barthel Fishwick,158 Doe Crossing Parkway,8000000,10000000,27,karyawan_swasta,814,baik,2025-02-06
+132,997766703,Galven Jeannot,911 Bartillon Junction,9000000,8000000,36,pns,758,baik,2024-12-30
+133,922013273,Kennan Duffill,5806 Mallory Park,10000000,11000000,29,wirausaha,680,baik,2025-07-06
+134,987113335,Hayden Cleminshaw,54206 Emmet Street,8000000,9000000,24,wirausaha,715,buruk,2025-07-22
+135,905038466,Brittani Bearward,24 Moulton Center,13000000,15000000,18,wirausaha,665,baik,2025-07-02
+136,911421048,Gweneth Banford,1957 Forest Center,7000000,6000000,35,karyawan_swasta,701,baik,2025-06-19
+137,923254607,Merrel Spalls,26 Susan Court,10000000,9000000,67,karyawan_swasta,738,baik,2024-11-23
+138,910850865,Holli Eller,2 Manitowish Place,10000000,11000000,41,wirausaha,773,baik,2025-05-02
+139,907488002,Babbette Whickman,3 Pawling Place,12000000,14000000,45,karyawan_swasta,793,baik,2025-04-06
+140,988570665,Pearl Barrick,8637 Stephen Park,10000000,11000000,19,wirausaha,754,baik,2025-05-15
+141,901856711,Meade Lermit,896 Buena Vista Lane,8000000,7000000,30,wirausaha,626,baik,2025-04-15
+142,922950269,Efrem Rawnsley,8859 Pearson Park,8000000,7000000,42,pns,752,buruk,2025-08-22
+143,951614066,Demeter Abbate,723 Hallows Court,9000000,10000000,32,karyawan_swasta,717,baik,2025-02-23
+144,903317058,Gabie Cloy,8 Northridge Drive,10000000,12000000,20,wirausaha,784,baik,2025-04-23
+145,942728257,Evonne Verling,18 Ludington Point,9000000,11000000,24,karyawan_swasta,695,baik,2025-03-13
+146,934906541,Piper Duxbury,50814 Melody Court,11000000,12000000,51,karyawan_swasta,756,baik,2025-03-20
+147,917982183,Walden Shakelade,4 Eagan Terrace,8000000,9000000,18,wirausaha,637,buruk,2025-05-13
+148,986953697,Dena Runchman,4 Cascade Crossing,13000000,15000000,41,pns,751,baik,2025-03-28
+149,989716802,Hashim Bengtson,4 Victoria Hill,5000000,4000000,18,karyawan_swasta,667,baik,2025-07-25
+150,921700052,Coral Huckin,5 Westend Parkway,7000000,6000000,32,wirausaha,698,buruk,2025-07-29
+151,936301994,Eolanda Couth,915 Londonderry Road,12000000,14000000,26,karyawan_swasta,753,baik,2025-08-11
+152,927911504,Cristy Hanwright,86211 Rigney Point,8000000,9000000,27,karyawan_swasta,675,baik,2025-06-13
+153,936703473,Isac Lestor,8836 Stang Plaza,10000000,11000000,49,karyawan_swasta,756,baik,2025-06-27
+154,979741718,Diane-marie Rubinovitch,4653 Colorado Crossing,11000000,13000000,31,wirausaha,832,baik,2025-05-28
+155,972342852,Teddy Maffioni,898 Moose Avenue,10000000,11000000,28,wirausaha,753,baik,2024-12-23
+156,917542706,Abbi Dunbavin,25945 Pennsylvania Place,12000000,13000000,66,pns,620,baik,2024-12-05
+157,917140348,Lydie Blaze,26 Maple Wood Junction,9000000,10000000,32,wirausaha,701,buruk,2025-06-27
+158,904286835,Any Tosspell,526 Eagan Alley,6000000,7000000,46,wirausaha,671,baik,2025-01-10
+159,996882897,Laurena Lintin,456 Spaight Park,6000000,5000000,49,karyawan_swasta,764,baik,2025-07-24
+160,930245031,Anatole Satchell,8 Burrows Avenue,9000000,8000000,51,wirausaha,603,baik,2024-11-30
+161,930126450,Tamera Edel,25696 Waxwing Drive,11000000,13000000,36,karyawan_swasta,592,buruk,2025-05-02
+162,953737688,Paulo Harman,3 Dawn Drive,10000000,11000000,49,karyawan_swasta,808,baik,2025-06-29
+163,916198202,Alyss Cleft,03 Atwood Point,10000000,8000000,48,wirausaha,763,baik,2025-07-09
+164,954069271,Skipton Vinten,59 Lunder Point,13000000,15000000,26,karyawan_swasta,639,buruk,2024-12-31
+165,943203528,Koren Mateuszczyk,4 North Way,13000000,11000000,38,pns,635,buruk,2024-12-16
+166,974687100,Winslow Ronaghan,6 Kropf Court,11000000,9000000,56,pns,710,buruk,2024-12-23
+167,911630739,Brook Luten,371 Sugar Crossing,12000000,14000000,37,wirausaha,742,baik,2024-12-13
+168,951535612,Prudy Gornal,6 Ilene Center,10000000,11000000,42,pns,764,baik,2025-09-02
+169,944273799,Deena Venus,47181 Karstens Place,10000000,12000000,59,wirausaha,723,baik,2025-07-10
+170,969626364,Jaquenetta Deniske,273 Dunning Crossing,13000000,15000000,28,wirausaha,765,baik,2024-12-09
+171,900469498,Rosmunda Summers,2 Hovde Circle,11000000,13000000,30,wirausaha,842,baik,2025-05-02
+172,937935205,Bel Jahnel,929 Gulseth Pass,15000000,18000000,53,karyawan_swasta,614,baik,2024-10-11
+173,952016727,Katharyn Muggleton,5621 Algoma Hill,6000000,7000000,18,karyawan_swasta,660,baik,2025-03-09
+174,963214818,Humfried Sanz,61342 Rieder Alley,10000000,12000000,37,wirausaha,687,buruk,2025-05-28
+175,901562965,Berta Curneen,7 American Avenue,5000000,6000000,37,wirausaha,654,baik,2025-05-11
+176,912738061,King Speer,41 Linden Hill,10000000,11000000,56,wirausaha,850,baik,2025-02-22
+177,985551264,Owen Rodder,114 6th Parkway,11000000,9000000,41,wirausaha,728,baik,2025-04-26
+178,925751695,Amby Blaza,0 Spenser Trail,9000000,10000000,30,wirausaha,805,baik,2025-07-07
+179,995444232,Arlena Kissell,941 Cody Road,9000000,11000000,29,pns,791,baik,2024-12-04
+180,971944403,Christean Brownsmith,298 Stuart Center,12000000,14000000,40,wirausaha,661,baik,2025-06-23
+181,960640002,Leonardo Dommersen,29098 Fordem Place,5000000,6000000,29,pns,720,baik,2025-04-04
+182,985357965,Bil Dewey,7 Springs Avenue,12000000,10000000,20,karyawan_swasta,773,baik,2024-09-23
+183,910388623,Clemence Konzelmann,89 Mallard Avenue,5000000,6000000,31,pns,810,baik,2025-01-02
+184,946784745,Joe Andreotti,3 Monterey Hill,11000000,9000000,18,karyawan_swasta,663,baik,2025-03-19
+185,905455391,Daryle Saberton,56503 Transport Terrace,13000000,15000000,27,wirausaha,783,baik,2025-04-29
+186,954958152,Carin Gauche,53314 Quincy Alley,9000000,11000000,40,karyawan_swasta,816,baik,2025-03-09
+187,938328644,Sigismond Keilloh,39 Macpherson Place,10000000,9000000,18,karyawan_swasta,673,baik,2024-10-02
+188,964170616,Noel Kingzet,52861 Hauk Alley,7000000,8000000,34,wirausaha,579,baik,2025-03-11
+189,940753441,Nanci Menlove,7787 Roth Alley,5000000,6000000,57,wirausaha,698,baik,2024-11-16
+190,909729114,Ketti Bilby,788 Arapahoe Terrace,14000000,16000000,18,karyawan_swasta,659,baik,2025-01-08
+191,972000578,Perkin Pigott,6411 Lyons Drive,12000000,14000000,43,wirausaha,722,baik,2025-01-25
+192,941809418,Ninetta Hannan,267 Claremont Parkway,8000000,9000000,61,wirausaha,629,baik,2025-05-13
+193,975556128,Engracia Kearsley,3 Mockingbird Trail,8000000,9000000,21,pns,698,buruk,2025-07-14
+194,903504224,Ofella MacAlinden,72 Sommers Court,10000000,11000000,23,pns,766,baik,2024-10-04
+195,915153033,Tracie Lahiff,274 Corry Drive,11000000,9000000,18,karyawan_swasta,606,baik,2025-03-14
+196,951293623,Demetri Rosenstock,6098 Sycamore Trail,5000000,4000000,18,wirausaha,790,baik,2025-01-15
+197,921536929,Sansone Veld,574 Banding Point,7000000,8000000,40,wirausaha,850,baik,2025-02-21
+198,957659562,Parrnell Kindred,24 Ryan Plaza,8000000,10000000,36,karyawan_swasta,682,baik,2024-11-27
+199,909367137,Rodi Magovern,2 Charing Cross Circle,15000000,17000000,18,wirausaha,520,baik,2024-11-07
+200,932848202,Far Searston,91618 Raven Court,8000000,9000000,40,karyawan_swasta,785,baik,2024-09-21
+201,954494042,Randy Flack,8 Annamark Point,14000000,16000000,49,karyawan_swasta,725,baik,2025-01-15
+202,908107519,Cornie Zupo,0 Ramsey Street,13000000,15000000,49,wirausaha,641,baik,2024-11-09
+203,997195667,Prentice August,3568 Autumn Leaf Terrace,9000000,8000000,65,karyawan_swasta,701,baik,2025-07-10
+204,918670152,Nils Ordemann,260 Wayridge Drive,7000000,6000000,50,wirausaha,742,baik,2025-09-14
+205,912003715,Constantin Grey,38 Walton Trail,12000000,14000000,50,wirausaha,736,baik,2025-07-27
+206,953984877,Nero Maplethorp,6866 Kipling Way,12000000,14000000,46,wirausaha,700,buruk,2025-05-12
+207,948762382,Nanny Grindle,97 Bluejay Lane,8000000,9000000,37,karyawan_swasta,714,baik,2025-01-05
+208,985795190,Eamon Rosenblum,6 Lindbergh Drive,11000000,9000000,21,karyawan_swasta,613,baik,2025-01-12
+209,966926411,Jasun Gimblet,13 Pankratz Pass,5000000,6000000,39,karyawan_swasta,634,baik,2025-05-21
+210,937381521,Blakeley Seamark,79212 Crest Line Plaza,14000000,17000000,40,karyawan_swasta,648,buruk,2025-07-27
+211,952021394,Willamina Stanford,0 Stone Corner Junction,15000000,17000000,52,wirausaha,606,baik,2024-12-09
+212,969181655,Rosanne Lukes,26 Starling Street,7000000,8000000,35,wirausaha,642,baik,2025-05-26
+213,912604388,Eddy Godbert,61004 Ramsey Center,12000000,10000000,52,karyawan_swasta,730,baik,2025-07-24
+214,901644588,Caz Newlove,77 Kropf Way,7000000,6000000,21,wirausaha,745,baik,2024-10-13
+215,971105379,Paten Clemmett,8052 Loomis Avenue,9000000,11000000,18,wirausaha,695,baik,2024-10-19
+216,998957318,Woody Dallaway,757 Thierer Road,9000000,8000000,41,karyawan_swasta,625,baik,2025-02-02
+217,996008557,Dalli Barwis,8463 Melvin Terrace,8000000,9000000,27,wirausaha,683,baik,2025-05-14
+218,907773010,Anny Redwin,14 Cherokee Avenue,13000000,11000000,40,wirausaha,750,baik,2024-12-28
+219,975896626,Vasily Birkenhead,10623 6th Alley,7000000,6000000,39,wirausaha,850,baik,2025-03-18
+220,991659205,Odella Ducarne,727 Forest Hill,7000000,8000000,18,wirausaha,566,baik,2025-01-21
+221,915014713,Cherey Ondrusek,45 Goodland Center,7000000,8000000,55,karyawan_swasta,669,baik,2025-08-19
+222,947438616,Rutter Chiese,58851 Butternut Court,13000000,12000000,19,karyawan_swasta,645,buruk,2024-10-04
+223,949025361,Eleonora Dach,46822 Darwin Plaza,10000000,12000000,28,pns,723,baik,2025-02-07
+224,963120396,Wilton Jaqueme,72426 6th Drive,14000000,15000000,44,karyawan_swasta,528,buruk,2024-11-27
+225,933256039,Evangeline Bestman,644 Quincy Place,14000000,16000000,45,wirausaha,613,baik,2025-02-26
+226,931570511,Barnebas Flacknell,19108 Mariners Cove Junction,14000000,11000000,49,wirausaha,636,baik,2025-05-11
+227,966875191,Morrie Burker,7694 Derek Drive,8000000,9000000,40,wirausaha,827,baik,2025-04-25
+228,948565611,Sanders Pammenter,5171 Meadow Vale Point,8000000,10000000,38,wirausaha,800,baik,2025-05-22
+229,950741050,Chrystel Gouny,67578 Mariners Cove Hill,11000000,13000000,40,karyawan_swasta,742,baik,2025-07-08
+230,982002062,Abbey Skullet,904 Crescent Oaks Plaza,6000000,7000000,34,wirausaha,668,baik,2025-09-14
+231,938217223,Roz Drillot,9054 Ruskin Place,11000000,12000000,31,wirausaha,742,baik,2025-02-12
+232,986321367,Lonny Gehringer,12 Colorado Terrace,9000000,11000000,32,karyawan_swasta,729,baik,2025-01-24
+233,901875726,Wendye Burner,716 Lillian Hill,8000000,9000000,35,wirausaha,687,baik,2024-09-18
+234,992236442,Fayth Deme,537 Coleman Hill,15000000,17000000,36,pns,736,baik,2024-12-29
+235,946243076,Norrie Segebrecht,9922 Pearson Terrace,8000000,6000000,54,karyawan_swasta,721,baik,2025-03-17
+236,925954217,Guenevere MacEvilly,3734 Canary Circle,7000000,6000000,32,wirausaha,753,baik,2025-08-28
+237,972362843,Artus Aliberti,76 Grasskamp Lane,14000000,12000000,55,karyawan_swasta,593,buruk,2024-12-04
+238,909881839,Tamma Ganforth,8730 Coleman Crossing,11000000,9000000,38,wirausaha,586,baik,2025-03-10
+239,966598317,Zitella Werrit,4662 Golf Road,10000000,11000000,23,wirausaha,658,baik,2024-11-12
+240,980624480,Clarisse Kollatsch,468 West Street,8000000,9000000,42,karyawan_swasta,649,baik,2025-09-08
+241,988047701,Fidelity Doget,93 Fremont Lane,12000000,14000000,21,pns,829,baik,2024-11-25
+242,932898883,Rita Machon,19 Independence Drive,10000000,12000000,30,wirausaha,718,buruk,2024-10-29
+243,935809306,Warner Nordass,60065 Moulton Avenue,13000000,15000000,34,karyawan_swasta,670,baik,2024-09-29
+244,959599285,Tessa Self,39950 Buhler Drive,7000000,6000000,35,wirausaha,763,baik,2024-12-25
+245,916362310,Alphonso Houchin,12532 Hallows Plaza,8000000,7000000,18,wirausaha,546,baik,2025-02-23
+246,936627577,Kelsey Webermann,5 Bonner Center,8000000,9000000,41,karyawan_swasta,850,baik,2025-05-25
+247,959292350,Shaughn Doxsey,7 Hintze Court,6000000,7000000,42,karyawan_swasta,846,baik,2025-02-13
+248,989031059,Tannie Meeron,9830 Arkansas Park,6000000,7000000,57,karyawan_swasta,850,baik,2025-05-11
+249,959847316,Rochelle Risen,70 Carberry Place,10000000,11000000,18,karyawan_swasta,678,baik,2025-01-14
+250,981709418,Roxane Crat,3513 Quincy Point,8000000,9000000,43,karyawan_swasta,731,baik,2024-12-03
+251,953119464,Brandyn Kaesmakers,32 Express Avenue,11000000,13000000,27,karyawan_swasta,499,baik,2025-08-13
+252,988310858,Janey Ojeda,57 Cardinal Center,9000000,8000000,40,pns,850,baik,2024-11-03
+253,913238225,Tory Fitzharris,30 Coolidge Court,5000000,4000000,33,karyawan_swasta,588,baik,2024-09-18
+254,909340929,Ad Pettie,3484 Novick Plaza,8000000,9000000,57,wirausaha,614,baik,2025-03-16
+255,914407684,Debby Polden,06897 Green Way,17000000,14000000,35,wirausaha,675,baik,2025-05-20
+256,997492774,Glenden Brenneke,94479 Lyons Junction,13000000,15000000,20,karyawan_swasta,832,baik,2025-06-23
+257,987226761,Larisa Morbey,645 Cordelia Hill,11000000,13000000,33,wirausaha,691,baik,2025-06-06
+258,994360009,Lebbie McLanaghan,53 Amoth Parkway,12000000,10000000,37,karyawan_swasta,709,baik,2025-08-23
+259,950948601,Dorthy Klambt,5 Welch Way,5000000,4000000,63,karyawan_swasta,636,buruk,2025-04-28
+260,947582651,Dottie Liggons,563 2nd Place,13000000,11000000,41,karyawan_swasta,695,baik,2024-10-06
+261,982571388,Sebastian Amsberger,3 Bayside Crossing,8000000,9000000,28,karyawan_swasta,648,baik,2025-02-26
+262,950261475,Eberhard Peyntue,82 Nelson Junction,10000000,9000000,20,wirausaha,665,baik,2025-05-23
+263,910842972,Milka Durling,057 Arrowood Plaza,5000000,6000000,31,karyawan_swasta,751,buruk,2025-06-23
+264,941615973,Trix Ricson,5 Surrey Point,12000000,10000000,30,karyawan_swasta,772,baik,2025-09-14
+265,975461472,Holly Munnion,574 Gale Pass,12000000,14000000,18,karyawan_swasta,722,baik,2025-06-25
+266,907634745,Jacquetta Mort,0 Park Meadow Crossing,8000000,9000000,61,wirausaha,601,baik,2024-12-15
+267,954270326,Elisabetta Macconaghy,31 Shasta Circle,10000000,11000000,49,wirausaha,592,buruk,2025-06-26
+268,963572354,Dinnie Lory,3546 Schiller Drive,14000000,16000000,71,wirausaha,618,baik,2024-12-14
+269,972652498,Dodi Haizelden,33 Vernon Hill,12000000,14000000,52,wirausaha,747,baik,2024-12-21
+270,982421363,Tony Hanstock,3327 Elka Circle,7000000,8000000,35,wirausaha,666,baik,2025-03-15
+271,965653717,Damiano Billett,18052 Rieder Road,11000000,13000000,47,pns,537,buruk,2025-01-13
+272,900901611,Sandy Shackle,8672 Iowa Place,9000000,10000000,73,wirausaha,756,baik,2024-11-17
+273,926455859,Farlie Beeken,505 Drewry Junction,14000000,16000000,39,wirausaha,559,baik,2025-06-03
+274,991409181,Jarvis Littlejohn,5936 Huxley Junction,13000000,15000000,40,wirausaha,843,baik,2025-07-12
+275,917344694,Les Swidenbank,505 Del Mar Pass,8000000,9000000,19,wirausaha,850,baik,2025-02-03
+276,994529469,Haze McKeaveney,2 Mandrake Drive,11000000,13000000,47,wirausaha,712,baik,2025-02-11
+277,934834421,Alon Swindles,23 Armistice Center,12000000,14000000,38,wirausaha,581,baik,2024-11-27
+278,972043882,Garth McMorland,34 Bonner Trail,6000000,7000000,32,pns,771,buruk,2024-10-23
+279,970130323,Kerk Currall,9 Walton Avenue,10000000,11000000,50,wirausaha,757,baik,2025-03-28
+280,954455371,Nonna Ruane,5 Park Meadow Junction,11000000,9000000,45,karyawan_swasta,655,baik,2025-03-07
+281,914438532,Marji Cattle,3 Shoshone Park,5000000,4000000,37,pns,785,baik,2025-06-11
+282,956687786,Vinni Kinzel,54 Trailsway Way,8000000,9000000,41,karyawan_swasta,595,baik,2024-12-28
+283,980657350,Magda Clout,7 Vahlen Avenue,5000000,6000000,28,wirausaha,694,baik,2025-01-23
+284,990937744,Nixie Jochanany,65213 Steensland Road,15000000,17000000,30,karyawan_swasta,787,baik,2024-12-24
+285,925522659,Benoite Oliveti,85476 Cherokee Parkway,12000000,14000000,22,karyawan_swasta,655,baik,2025-01-01
+286,995417059,Bennie Neads,8 Forster Pass,13000000,15000000,34,karyawan_swasta,582,baik,2025-07-04
+287,903565177,Rowena Giacobillo,44 Londonderry Court,5000000,4000000,40,wirausaha,769,baik,2025-04-25
+288,912692584,Ernest Bigham,35789 Sherman Parkway,6000000,5000000,42,karyawan_swasta,609,baik,2025-07-31
+289,974714952,Dietrich Rozenzweig,813 Scofield Trail,8000000,9000000,37,wirausaha,850,baik,2024-11-22
+290,974653245,Andee Dobbson,8889 Leroy Terrace,17000000,14000000,56,karyawan_swasta,578,buruk,2024-09-17
+291,970190149,Sebastian Trounce,68782 Dryden Terrace,9000000,8000000,18,karyawan_swasta,662,baik,2025-01-24
+292,908714005,Joelynn Waldera,872 Menomonie Avenue,9000000,10000000,41,pns,679,baik,2024-10-01
+293,921263165,Jesus Drees,2 Dorton Junction,7000000,6000000,50,wirausaha,718,baik,2024-10-13
+294,962603621,Roth Mattam,69 Forest Dale Road,11000000,9000000,50,wirausaha,642,baik,2025-03-02
+295,941430287,Gilles Pill,59 Farragut Circle,13000000,15000000,28,wirausaha,662,baik,2025-01-10
+296,925869842,Skylar Cleeve,260 Washington Park,11000000,9000000,18,pns,636,baik,2025-02-27
+297,985975629,Elvis Bartul,17979 Bluestem Way,10000000,11000000,42,karyawan_swasta,530,buruk,2025-04-08
+298,979280094,Barby Cuffin,32497 Declaration Plaza,11000000,13000000,36,wirausaha,573,baik,2024-10-12
+299,962718186,Rena Peche,63 Harper Junction,6000000,7000000,32,karyawan_swasta,690,baik,2025-05-27
+300,959740199,Enrika Turbefield,20823 Service Trail,9000000,10000000,36,pns,642,baik,2025-06-26
+301,960546352,Abbott Brauns,0447 Armistice Pass,12000000,13000000,46,wirausaha,699,baik,2025-03-14
+302,951393523,Hedwiga McAllen,7 Kennedy Road,11000000,9000000,18,wirausaha,604,baik,2025-06-20
+303,901695659,Claude Del Checolo,63 Kedzie Parkway,5000000,4000000,48,wirausaha,736,baik,2024-11-21
+304,971858958,Teodora Dogerty,011 Maryland Junction,16000000,14000000,47,wirausaha,451,baik,2025-06-13
+305,957960139,Morna Broadist,5694 Starling Pass,6000000,7000000,23,karyawan_swasta,787,baik,2025-02-02
+306,969882008,Andy Lenney,69167 Ronald Regan Drive,12000000,10000000,23,wirausaha,704,buruk,2025-07-21
+307,915794063,Cassi Gommery,3 Service Place,7000000,6000000,18,wirausaha,744,baik,2025-07-06
+308,994893950,Heather Muddimer,60120 Southridge Crossing,6000000,7000000,18,karyawan_swasta,699,baik,2025-09-14
+309,907059726,Pasquale Scala,35476 Carberry Road,5000000,6000000,29,wirausaha,827,baik,2025-04-16
+310,954787691,Filide Shiell,0948 Almo Crossing,9000000,8000000,38,karyawan_swasta,631,baik,2025-07-21
+311,982522002,Etan Leghorn,60 Westerfield Point,15000000,18000000,70,karyawan_swasta,772,baik,2025-03-06
+312,953985600,Jarrod Geraudel,849 Jackson Lane,14000000,16000000,28,wirausaha,673,baik,2025-05-31
+313,990438844,Maisie Kean,5 Mayer Hill,9000000,10000000,40,wirausaha,703,baik,2025-05-28
+314,932245052,Violette Pindell,0 Mayfield Road,6000000,7000000,63,wirausaha,759,baik,2025-06-28
+315,994592454,Evin Jankowski,62413 Graedel Point,8000000,7000000,45,karyawan_swasta,599,baik,2024-12-07
+316,911708810,Hamil Whitchurch,6 Butterfield Court,14000000,16000000,18,karyawan_swasta,688,baik,2025-08-11
+317,943986026,Devina Salvatore,61 Corben Pass,16000000,18000000,49,wirausaha,733,baik,2025-04-17
+318,909405033,Glynda Tumilty,11113 Mallard Alley,9000000,7000000,37,wirausaha,660,baik,2025-08-21
+319,926194473,Tony Cramphorn,3 Jana Parkway,12000000,13000000,75,wirausaha,716,baik,2025-01-20
+320,911839367,Lyssa Ornillos,50258 Michigan Center,13000000,15000000,33,pns,644,baik,2024-10-11
+321,905400836,Britta Jachimiak,79 Russell Parkway,6000000,7000000,18,wirausaha,652,baik,2025-06-03
+322,946441429,Marla Iashvili,8977 Hoard Place,10000000,11000000,51,karyawan_swasta,629,baik,2025-09-13
+323,918932322,Candide Bradborne,3 Nancy Alley,14000000,16000000,29,karyawan_swasta,580,buruk,2025-02-05
+324,932036546,Daren Golley,5 Algoma Parkway,11000000,13000000,54,karyawan_swasta,657,baik,2024-10-14
+325,914941472,Harlan Scamal,57106 Bonner Place,10000000,12000000,38,karyawan_swasta,783,buruk,2024-12-02
+326,923797023,Marion Headech,7 Victoria Hill,7000000,6000000,27,wirausaha,615,baik,2025-04-13
+327,908620178,Feliks Disbury,198 Starling Circle,7000000,6000000,60,wirausaha,618,baik,2025-03-02
+328,932898454,Will Mein,28286 Rockefeller Plaza,11000000,9000000,27,wirausaha,705,baik,2025-03-01
+329,977813475,Cob Nanninini,5799 Mifflin Hill,12000000,13000000,37,wirausaha,660,baik,2025-01-02
+330,919462169,Dawna Posten,35 Sutherland Road,5000000,6000000,46,wirausaha,516,buruk,2025-09-04
+331,977578784,Estrellita Harrell,04627 Dawn Avenue,5000000,6000000,39,wirausaha,690,baik,2024-12-18
+332,950760639,Rosalinda Blasiak,07467 West Crossing,9000000,7000000,41,wirausaha,724,baik,2025-01-07
+333,980318987,Layla Doni,603 5th Park,11000000,12000000,47,karyawan_swasta,776,baik,2025-09-06
+334,929731556,Benoit Putson,2 Troy Hill,18000000,21000000,29,wirausaha,479,baik,2024-10-10
+335,974425575,Adlai Garcia,2 Butterfield Road,14000000,16000000,18,wirausaha,619,baik,2025-03-28
+336,902774449,Franky Karlsen,1550 Sauthoff Road,9000000,10000000,25,karyawan_swasta,527,baik,2025-03-15
+337,918915799,Sydney Garnham,1507 Evergreen Place,14000000,16000000,62,wirausaha,687,baik,2024-12-23
+338,988388536,Jay McKea,94966 Redwing Trail,17000000,20000000,18,wirausaha,688,buruk,2025-03-18
+339,947003548,Gordie Bedells,81 Rowland Pass,9000000,8000000,28,wirausaha,764,baik,2025-09-13
+340,975605906,Fabien Crookston,612 Claremont Street,11000000,13000000,24,karyawan_swasta,635,buruk,2025-02-28
+341,972550688,Kettie Tonge,5 Vernon Place,14000000,12000000,32,karyawan_swasta,599,baik,2025-03-20
+342,979918382,Kristoffer Barradell,65946 Scofield Circle,5000000,4000000,59,pns,734,baik,2025-01-06
+343,935564313,Ophelie Deeth,5 Kings Junction,7000000,8000000,36,wirausaha,714,baik,2025-07-20
+344,934424639,Dominga Mapledoore,14 Heath Park,9000000,10000000,54,wirausaha,649,baik,2025-01-20
+345,902974232,Laureen Dorney,059 American Ash Court,13000000,15000000,24,karyawan_swasta,806,baik,2025-04-22
+346,903650602,Finn Olyfant,97 Washington Trail,11000000,9000000,48,wirausaha,742,baik,2025-08-25
+347,999294497,Wrennie Berzen,0 Huxley Pass,9000000,10000000,21,karyawan_swasta,850,baik,2024-10-14
+348,957584124,Bree Crumbleholme,8 Jackson Junction,12000000,14000000,33,pns,671,baik,2025-06-24
+349,978993125,Deerdre Moxom,2768 Ohio Trail,11000000,12000000,41,wirausaha,850,baik,2024-11-17
+350,910938011,Van Fetherston,24050 Tomscot Center,13000000,15000000,50,karyawan_swasta,616,buruk,2025-05-27
+351,945937058,Linell Gino,688 Beilfuss Lane,7000000,8000000,35,wirausaha,723,baik,2025-01-14
+352,932885947,Angelika Sumpter,5699 Rigney Road,10000000,12000000,26,wirausaha,612,baik,2025-07-22
+353,965808092,Fallon Keningley,21534 Walton Crossing,10000000,9000000,32,karyawan_swasta,816,baik,2025-02-21
+354,961672735,Florence Sibbering,408 Hanover Plaza,12000000,14000000,28,wirausaha,850,baik,2025-02-22
+355,940742335,Johanna Niesel,843 Hanover Circle,10000000,12000000,28,pns,733,baik,2025-01-31
+356,932774788,Karin Stefi,03 Corry Circle,14000000,16000000,53,karyawan_swasta,740,baik,2025-08-24
+357,922354032,Alic Southerton,4517 Graedel Avenue,11000000,12000000,18,wirausaha,520,buruk,2024-12-05
+358,921278461,Isaak Latimer,6104 Hayes Junction,14000000,13000000,18,wirausaha,812,buruk,2025-02-13
+359,908074600,Sonni Saltwell,4 Mayfield Avenue,6000000,7000000,39,wirausaha,693,baik,2024-11-29
+360,903761889,Sky Jaulme,94174 Clarendon Pass,13000000,15000000,45,wirausaha,641,buruk,2025-09-11
+361,989609131,Lewie Downs,59 South Terrace,9000000,11000000,22,karyawan_swasta,847,baik,2025-09-08
+362,936982749,Pam Broad,64247 Porter Circle,10000000,12000000,22,karyawan_swasta,703,baik,2025-09-10
+363,974507145,Trudy Reardon,662 Debra Hill,14000000,12000000,32,wirausaha,735,baik,2025-08-25
+364,955326458,Verge Moretto,3 Charing Cross Point,8000000,9000000,28,wirausaha,727,baik,2025-03-14
+365,952741111,Chiquia Loding,5 Oakridge Place,9000000,11000000,19,karyawan_swasta,702,baik,2024-11-15
+366,963046436,Terrence Enga,9 Oak Crossing,9000000,10000000,22,wirausaha,644,baik,2025-08-17
+367,985459944,Alaster Decourcy,59 Quincy Circle,14000000,11000000,53,karyawan_swasta,701,baik,2025-05-05
+368,979998187,Madonna Cannon,0376 American Drive,12000000,14000000,33,pns,638,buruk,2025-06-18
+369,970352326,Dareen Conkey,66687 Eagan Center,11000000,13000000,39,pns,701,baik,2024-09-24
+370,933662550,Bess Woodes,7 Myrtle Trail,5000000,4000000,45,pns,731,baik,2025-04-15
+371,993527510,Laney MacKimm,5449 Arizona Plaza,9000000,11000000,45,wirausaha,844,baik,2025-03-06
+372,992923025,Sarine Zipsell,33895 Grover Road,11000000,12000000,58,karyawan_swasta,556,buruk,2025-04-26
+373,930921950,Denys Twomey,8 Center Way,11000000,13000000,41,wirausaha,644,baik,2025-08-01
+374,941230736,Lexi Fowgies,0 Oriole Parkway,11000000,13000000,24,karyawan_swasta,675,baik,2025-06-10
+375,901292840,Audra Temprell,3557 Erie Point,7000000,6000000,60,wirausaha,721,baik,2025-02-06
+376,985935230,Paulie Edgett,7960 Elka Hill,10000000,8000000,24,karyawan_swasta,704,baik,2024-10-30
+377,932735737,Gena Pughsley,1 Quincy Street,9000000,8000000,38,karyawan_swasta,720,baik,2025-06-14
+378,951430862,Delmar Vause,2 Northfield Pass,6000000,5000000,42,wirausaha,715,baik,2024-11-05
+379,964664598,Kaycee Beany,146 6th Parkway,7000000,8000000,52,wirausaha,681,baik,2025-08-18
+380,946629287,Andris Cessford,439 Ridgeway Way,8000000,7000000,18,wirausaha,723,baik,2024-09-28
+381,993360423,Filbert Inott,039 Sutherland Trail,7000000,8000000,50,wirausaha,699,baik,2025-05-13
+382,990968776,Kenn Aikenhead,67 East Pass,5000000,6000000,25,wirausaha,701,baik,2025-07-22
+383,920796133,Killie Glossup,4 Commercial Terrace,14000000,11000000,18,karyawan_swasta,711,baik,2025-03-10
+384,940270346,Anselm Keave,1430 Caliangt Road,9000000,8000000,19,wirausaha,850,baik,2025-01-07
+385,903294657,Wolfgang Trussell,007 Delladonna Street,9000000,11000000,66,wirausaha,716,baik,2025-06-30
+386,961419047,Dud Sicely,0 Express Hill,14000000,17000000,38,wirausaha,838,baik,2025-06-14
+387,941469235,Tatiana Cockin,6 Katie Court,10000000,12000000,32,wirausaha,730,baik,2025-01-23
+388,998851319,Maxine Bartlet,53 Pine View Road,7000000,8000000,18,karyawan_swasta,703,baik,2025-03-12
+389,935955571,Mommy Sandham,628 International Park,6000000,7000000,35,wirausaha,627,baik,2024-10-22
+390,928793363,Adriana O'Spellissey,99 Service Parkway,7000000,8000000,43,wirausaha,687,baik,2025-07-27
+391,915713310,Charlotta Challes,14 Schurz Place,9000000,10000000,18,wirausaha,725,baik,2024-10-23
+392,977670477,Joly Allcock,5 Becker Pass,12000000,14000000,35,pns,752,baik,2025-01-23
+393,914548530,Grady Corringham,54515 Coleman Plaza,8000000,9000000,58,wirausaha,670,baik,2025-08-20
+394,974975414,Lilla Camerello,45 Pawling Point,10000000,9000000,18,wirausaha,850,baik,2025-02-16
+395,965045468,Rosa Fullick,9031 Everett Crossing,5000000,4000000,32,wirausaha,634,buruk,2025-07-01
+396,989360166,Josey Copland,83094 Swallow Court,8000000,7000000,18,karyawan_swasta,488,buruk,2025-08-07
+397,954951043,Evin Anderson,9517 Blackbird Drive,13000000,11000000,34,wirausaha,506,buruk,2024-12-17
+398,961428902,Gwenni Nairns,988 Valley Edge Lane,8000000,9000000,37,wirausaha,634,buruk,2024-12-18
+399,951367423,Crosby Neave,464 Tennessee Crossing,9000000,11000000,67,karyawan_swasta,687,baik,2025-02-04
+400,984058563,Alecia Colleymore,06 Butterfield Trail,8000000,7000000,33,wirausaha,739,baik,2025-07-16
+401,945395111,Umberto Donat,60290 Carberry Street,11000000,9000000,37,karyawan_swasta,640,baik,2025-04-26
+402,923896177,Wolf Humberstone,018 Menomonie Alley,10000000,9000000,57,wirausaha,700,baik,2024-12-03
+403,955482250,Alasdair Bertomieu,23431 Starling Hill,10000000,11000000,34,wirausaha,825,baik,2025-07-24
+404,973557869,Saraann Gregorace,7870 Anzinger Parkway,10000000,11000000,34,wirausaha,827,baik,2025-06-05
+405,921010599,Karrie Halpeine,58473 Veith Alley,5000000,6000000,18,wirausaha,656,baik,2025-03-01
+406,917894621,Etty Shakshaft,6 Shasta Center,18000000,20000000,31,karyawan_swasta,554,baik,2025-07-07
+407,969213479,Cissiee Brazelton,4 Golf Trail,16000000,14000000,34,wirausaha,664,baik,2025-04-22
+408,927469814,Shannon Cairns,76261 Comanche Court,10000000,11000000,29,wirausaha,803,baik,2025-07-27
+409,921208538,Ann-marie Wolfit,02665 Sauthoff Crossing,8000000,9000000,50,wirausaha,682,buruk,2025-02-13
+410,955481515,Clarita Feake,42 Monterey Terrace,12000000,14000000,45,wirausaha,630,baik,2024-10-01
+411,992982332,Kinny Batchelor,3 Hintze Avenue,13000000,15000000,38,wirausaha,733,baik,2025-07-13
+412,952902583,Cece Pawelke,2 Hollow Ridge Center,15000000,17000000,31,pns,701,baik,2025-02-03
+413,927769025,Maddie Byrd,45986 Butternut Place,10000000,12000000,48,karyawan_swasta,756,baik,2025-02-06
+414,964945584,Janella O'Hearn,8 Westend Point,11000000,13000000,47,wirausaha,719,baik,2025-02-08
+415,944282011,Cathyleen Cole,14 Del Mar Parkway,11000000,13000000,53,wirausaha,643,baik,2025-05-21
+416,994685575,Chuck Paz,4555 Annamark Circle,14000000,16000000,52,pns,804,baik,2025-04-02
+417,976659438,Sandie Steadman,23 Dawn Crossing,5000000,6000000,37,wirausaha,719,baik,2024-11-15
+418,930855518,Seka Meharg,1 Columbus Trail,7000000,6000000,39,karyawan_swasta,850,baik,2024-12-17
+419,972377038,Lee Gleder,339 Debs Alley,11000000,13000000,24,wirausaha,797,baik,2025-06-30
+420,982704209,Rhetta Ebourne,1 Rowland Place,10000000,12000000,18,karyawan_swasta,638,baik,2025-06-28
+421,984178254,Barbe Paulon,270 Sloan Place,5000000,6000000,44,pns,582,baik,2025-08-05
+422,990693690,Vinnie Hewell,886 Holy Cross Drive,12000000,10000000,22,wirausaha,676,baik,2024-10-14
+423,919947672,Luciano Duthie,97020 Utah Point,6000000,7000000,39,karyawan_swasta,623,baik,2025-09-12
+424,906700898,Bertina Boshers,9002 Debs Junction,11000000,9000000,34,wirausaha,669,baik,2025-09-13
+425,901218832,Jedd Gerrill,0442 Merrick Avenue,10000000,11000000,70,pns,606,baik,2025-06-08
+426,994077362,Daisey Englishby,6020 Old Gate Park,10000000,12000000,36,wirausaha,711,baik,2024-10-17
+427,948495400,Theodore O'Crigan,18932 Talisman Parkway,9000000,8000000,18,wirausaha,772,baik,2024-12-25
+428,951521576,Webb Crysell,23 Golf Drive,8000000,10000000,34,wirausaha,594,buruk,2025-03-04
+429,923924373,Yorker Fochs,390 Mallory Center,9000000,11000000,49,karyawan_swasta,694,baik,2024-10-14
+430,990964033,Tait Cutill,69885 Anderson Park,11000000,13000000,44,wirausaha,803,baik,2025-05-31
+431,945756153,Farlay Finden,83367 Clyde Gallagher Place,10000000,12000000,48,karyawan_swasta,724,baik,2024-10-01
+432,986296867,Hyacinth Redmell,0869 Packers Lane,14000000,11000000,43,wirausaha,850,baik,2025-05-26
+433,942304573,Meridith Paulig,20834 Eggendart Alley,7000000,8000000,47,wirausaha,673,baik,2024-11-24
+434,959991545,Dyann Howett,781 Banding Alley,11000000,13000000,32,wirausaha,681,baik,2025-04-14
+435,900408399,Josepha Orht,015 Nevada Center,10000000,8000000,25,karyawan_swasta,660,buruk,2025-08-24
+436,911605535,Ev Benettini,93637 New Castle Trail,8000000,7000000,48,pns,783,baik,2025-07-14
+437,906335595,Maxie Hillatt,1813 Monterey Circle,5000000,6000000,29,wirausaha,722,baik,2024-11-18
+438,918654005,Avery McIsaac,094 Kipling Point,11000000,13000000,20,wirausaha,711,baik,2025-05-17
+439,942925850,Burnaby Nottle,16437 Maywood Alley,11000000,13000000,37,karyawan_swasta,675,baik,2024-10-24
+440,904038405,Lesli Dolbey,4566 Springs Center,13000000,14000000,31,karyawan_swasta,810,baik,2025-01-08
+441,924434405,Baxter Oxshott,7380 Bay Parkway,9000000,8000000,42,pns,800,baik,2024-11-02
+442,915961357,Whitman Strang,05 Rockefeller Pass,13000000,14000000,35,wirausaha,677,baik,2024-11-06
+443,959512680,Josey Ferrieri,57 Lien Trail,11000000,13000000,33,karyawan_swasta,678,baik,2024-11-08
+444,952981419,Arlyne Carrane,031 Bartillon Center,13000000,15000000,61,karyawan_swasta,720,baik,2024-11-16
+445,982631811,Celene Peattie,3 Warrior Lane,5000000,4000000,41,wirausaha,805,baik,2025-05-22
+446,944320773,Charline Wayt,380 Arapahoe Alley,13000000,15000000,22,karyawan_swasta,766,baik,2024-10-25
+447,927998180,Libbi Fucher,25 Killdeer Point,14000000,17000000,18,karyawan_swasta,595,buruk,2024-09-18
+448,946958937,Teena Olford,66 Twin Pines Pass,14000000,16000000,18,wirausaha,769,baik,2025-02-12
+449,950496913,Albertina Bartlosz,79741 Warner Point,11000000,9000000,21,karyawan_swasta,685,baik,2025-07-09
+450,937860607,Carlin Brogi,6 Main Point,5000000,6000000,44,wirausaha,646,baik,2025-04-03
+451,922381714,Cherry Paolone,55 Crescent Oaks Alley,10000000,11000000,26,karyawan_swasta,703,baik,2025-01-08
+452,983726503,Mortimer Pester,1 Melby Place,5000000,6000000,41,karyawan_swasta,806,baik,2024-10-27
+453,995574159,West Merrikin,028 Macpherson Court,10000000,11000000,43,wirausaha,733,baik,2025-03-22
+454,984150846,Giacopo Durtnell,016 Grasskamp Junction,10000000,11000000,18,wirausaha,735,baik,2024-09-20
+455,903311258,Margaretta March,18995 Jenifer Plaza,9000000,11000000,36,wirausaha,685,buruk,2025-09-12
+456,930313607,Aubine Chidlow,279 Pennsylvania Lane,11000000,9000000,34,wirausaha,753,baik,2025-01-13
+457,998041905,Sam Villaron,63 Hoepker Junction,12000000,10000000,38,karyawan_swasta,649,baik,2025-05-06
+458,946895036,Ralina Nolder,49 Autumn Leaf Drive,11000000,13000000,42,pns,752,baik,2025-08-04
+459,977304829,Elga Gartsyde,52320 Harper Road,5000000,5000000,30,wirausaha,656,baik,2025-04-07
+460,978318867,Sallyanne Lammerts,57 Corscot Way,5000000,6000000,52,karyawan_swasta,745,baik,2025-03-05
+461,918594198,Esra Pfeffle,018 Scott Street,9000000,10000000,33,pns,801,baik,2024-10-15
+462,901247105,Shela Ben,431 Jackson Court,10000000,12000000,32,wirausaha,663,baik,2025-06-05
+463,901518238,Diann Lyte,70 Anhalt Alley,13000000,15000000,20,wirausaha,752,baik,2025-01-06
+464,959319764,Sharline Kliement,74249 Eagan Parkway,9000000,10000000,26,wirausaha,768,baik,2024-11-13
+465,983044244,Chucho MacKibbon,43 Katie Court,6000000,5000000,59,wirausaha,721,baik,2025-05-16
+466,974670065,Farlee Doyley,200 Myrtle Alley,10000000,8000000,34,pns,777,baik,2025-05-26
+467,973247322,Llywellyn Lawman,968 Welch Way,11000000,12000000,29,wirausaha,683,baik,2025-09-06
+468,920036912,Corbie Jarley,8859 Red Cloud Way,13000000,11000000,45,wirausaha,850,baik,2024-10-10
+469,964346229,Vinson Grover,099 Carey Drive,10000000,8000000,29,wirausaha,648,baik,2025-03-01
+470,977514195,Clevie Pennick,59621 Scoville Crossing,11000000,13000000,53,wirausaha,646,baik,2024-10-14
+471,999929615,Bethanne Crossman,35200 Lotheville Hill,14000000,12000000,48,karyawan_swasta,590,buruk,2024-11-11
+472,935284893,Konrad Scoyne,6 Elmside Pass,8000000,9000000,45,wirausaha,705,baik,2025-03-19
+473,903709841,Maury Hallaways,8521 Michigan Point,8000000,9000000,27,karyawan_swasta,850,baik,2025-04-14
+474,962613922,Horatius Thrift,91 Buhler Street,14000000,16000000,40,wirausaha,708,baik,2025-03-19
+475,974289478,Renie Frail,2922 Oak Crossing,12000000,14000000,48,karyawan_swasta,850,baik,2025-03-22
+476,911916259,Harlen Kuzemka,16279 Shelley Place,13000000,15000000,32,wirausaha,772,baik,2025-02-03
+477,941647158,Matteo Foxley,07778 Mesta Park,12000000,14000000,44,wirausaha,689,baik,2025-04-22
+478,936574759,Judah Shrawley,8 Elmside Junction,5000000,6000000,46,karyawan_swasta,650,baik,2025-03-29
+479,991535168,Agatha Windybank,9576 Saint Paul Alley,11000000,9000000,43,wirausaha,602,baik,2025-05-14
+480,908410757,Fabiano Manoch,36444 Shelley Lane,6000000,7000000,35,pns,708,baik,2024-11-27
+481,931414252,Harbert Sackler,71 Golden Leaf Place,5000000,4000000,18,karyawan_swasta,735,baik,2024-11-13
+482,933185407,Atalanta Paladini,53 Havey Place,8000000,6000000,58,wirausaha,658,baik,2025-09-05
+483,989751416,Humfried Tomaselli,03 Petterle Trail,8000000,9000000,23,wirausaha,632,buruk,2024-11-19
+484,948101092,Sayer Abernethy,68134 Mifflin Center,7000000,8000000,37,karyawan_swasta,663,buruk,2024-11-16
+485,919553127,Phebe Worham,51891 Hoepker Pass,5000000,6000000,64,wirausaha,789,baik,2024-11-10
+486,971254803,Oberon Coopey,073 Towne Junction,13000000,16000000,41,wirausaha,675,baik,2025-01-09
+487,903569372,Tedman Iorio,767 Bunting Junction,10000000,12000000,18,pns,730,baik,2024-09-26
+488,920486622,Louella Rahill,5 Monica Trail,9000000,10000000,18,wirausaha,690,baik,2025-03-26
+489,903909637,Whittaker Drissell,43492 Shoshone Drive,6000000,5000000,56,wirausaha,711,baik,2025-07-19
+490,956289104,Uriel Terrill,301 Continental Lane,11000000,13000000,51,wirausaha,847,baik,2024-10-06
+491,993484581,Alane Spurman,5 Laurel Plaza,9000000,8000000,24,wirausaha,775,baik,2025-09-15
+492,966134686,Harriot O'Cahey,51245 Valley Edge Pass,13000000,15000000,28,karyawan_swasta,682,baik,2025-03-04
+493,929209165,Corena Sparshutt,68 Spohn Point,11000000,9000000,18,wirausaha,800,baik,2025-09-04
+494,922620376,Ruy Kerner,4317 Michigan Lane,7000000,8000000,42,wirausaha,636,baik,2025-04-23
+495,952014776,Shanan De la Feld,50 Elka Pass,11000000,12000000,67,karyawan_swasta,687,baik,2025-02-25
+496,956467191,Gena Birbeck,77 Atwood Court,15000000,17000000,35,karyawan_swasta,738,baik,2024-10-28
+497,928569968,Emera Dyne,53 Sullivan Drive,13000000,11000000,37,wirausaha,728,baik,2025-01-21
+498,917390105,Michal O'Dulchonta,511 Gateway Pass,8000000,10000000,19,karyawan_swasta,828,baik,2024-10-14
+499,939992007,Giffy Braganza,09276 Evergreen Place,14000000,16000000,50,pns,850,baik,2025-06-06
+500,961125035,Meryl Connal,20022 Rockefeller Point,8000000,10000000,69,wirausaha,720,baik,2025-06-01
+501,983132731,Geordie Hupka,23448 Jenifer Pass,9000000,10000000,18,karyawan_swasta,834,baik,2025-05-18
+502,907950716,Del Quilter,28 Gale Point,10000000,12000000,31,wirausaha,551,baik,2025-08-16
+503,924830264,Cobb Matias,5 Jenna Crossing,13000000,15000000,47,wirausaha,707,baik,2025-03-03
+504,922455287,Dominica Tomkins,12993 Boyd Terrace,10000000,11000000,19,wirausaha,621,baik,2025-07-10
+505,958690469,Hendrick Mongeot,81 Linden Crossing,7000000,6000000,39,karyawan_swasta,611,baik,2024-12-02
+506,926803385,Greg Piddletown,6 Kinsman Avenue,10000000,11000000,24,wirausaha,746,baik,2025-04-07
+507,919015532,Cherin Blemen,25 Cambridge Place,11000000,12000000,29,pns,746,baik,2024-12-15
+508,906149669,Jenifer Locock,65677 Del Mar Road,12000000,14000000,27,wirausaha,761,baik,2025-05-04
+509,926950051,Jesus Yurkin,76286 Truax Pass,9000000,10000000,24,wirausaha,612,baik,2025-04-07
+510,998366896,Kris Yair,65975 Arapahoe Alley,7000000,8000000,41,wirausaha,537,baik,2025-07-28
+511,904460828,Sergeant Harwin,9853 Dahle Park,9000000,11000000,32,wirausaha,582,buruk,2024-12-22
+512,914065023,Ross Causer,66510 Mallard Crossing,8000000,9000000,47,karyawan_swasta,850,baik,2025-05-21
+513,901537538,Jacintha Millson,79 Grover Crossing,13000000,15000000,27,karyawan_swasta,717,baik,2025-05-23
+514,938400042,Biddie Duncklee,91142 Carberry Terrace,13000000,15000000,50,karyawan_swasta,720,baik,2025-01-28
+515,966437343,Augusto Roller,0476 Lighthouse Bay Road,8000000,9000000,23,pns,799,baik,2025-03-25
+516,996844827,Pammy Pastor,3 Lindbergh Park,15000000,13000000,29,pns,819,baik,2025-06-02
+517,989363318,Norri Androck,832 Arkansas Trail,7000000,8000000,19,wirausaha,673,buruk,2024-11-16
+518,945046422,Hinze Boulde,5200 Prentice Alley,14000000,16000000,30,wirausaha,628,baik,2025-04-15
+519,920557314,Peg Badder,79701 Corscot Street,8000000,9000000,49,wirausaha,730,baik,2024-10-04
+520,972491462,Lotti Cleaton,7140 Alpine Park,13000000,11000000,31,wirausaha,728,baik,2025-04-29
+521,900442527,Joela Belly,12487 Ridgeview Circle,15000000,17000000,21,karyawan_swasta,805,baik,2025-07-22
+522,929970497,Hilliard Bratt,939 Browning Plaza,5000000,6000000,42,wirausaha,705,baik,2025-04-07
+523,976324946,Bridget Kolis,03 Farwell Way,7000000,8000000,32,karyawan_swasta,723,baik,2024-10-22
+524,989452760,Danit Droghan,00748 Paget Park,10000000,12000000,27,karyawan_swasta,668,baik,2025-02-28
+525,964574406,Pamela Stair,7 Scofield Pass,7000000,6000000,18,wirausaha,720,baik,2025-06-19
+526,997587736,Marcie Ohrtmann,53647 Glacier Hill Pass,13000000,15000000,37,wirausaha,711,baik,2025-05-13
+527,927981726,Roddie Guidoni,127 Kim Alley,15000000,17000000,41,wirausaha,741,baik,2025-01-29
+528,939165026,Karolina Chippendale,0 Roxbury Hill,7000000,8000000,40,wirausaha,688,baik,2024-11-21
+529,912064425,Johanna Craze,0163 Buhler Plaza,11000000,9000000,40,wirausaha,637,baik,2025-03-28
+530,962901548,Rancell Cofax,2 Northport Road,11000000,13000000,48,wirausaha,737,baik,2024-10-25
+531,957724610,Chery Bettleson,14049 Holmberg Drive,8000000,9000000,52,karyawan_swasta,715,baik,2025-05-08
+532,912409874,Evan Brame,09 2nd Park,11000000,13000000,55,wirausaha,712,baik,2025-04-30
+533,973401198,Terrell Screaton,19276 Lakewood Alley,7000000,8000000,32,pns,794,baik,2024-11-04
+534,981889755,Normand Cowern,10258 Ronald Regan Avenue,7000000,8000000,26,wirausaha,788,baik,2025-01-25
+535,950331494,Eal Ellif,40438 Columbus Way,9000000,8000000,30,wirausaha,723,baik,2025-08-07
+536,985366002,Lamar Filipowicz,98795 Meadow Valley Way,11000000,12000000,30,karyawan_swasta,675,baik,2024-10-22
+537,938315576,Lyndsie Inkpin,6973 8th Alley,9000000,7000000,18,karyawan_swasta,514,baik,2025-04-03
+538,978300802,Dulci Sperski,37 Longview Park,13000000,16000000,40,karyawan_swasta,672,baik,2024-09-26
+539,924832032,Filia Searles,62 Tennyson Court,13000000,11000000,34,pns,701,baik,2025-06-29
+540,960808853,Lanie Farnhill,92 Towne Plaza,10000000,12000000,44,pns,592,buruk,2025-03-01
+541,958748475,Kelci Badsworth,12061 Elmside Hill,13000000,15000000,56,karyawan_swasta,742,baik,2025-05-07
+542,983204685,Biddie Altimas,3202 Golden Leaf Terrace,15000000,17000000,38,wirausaha,619,baik,2025-04-18
+543,969124886,Shannan Carine,9461 Lake View Alley,9000000,11000000,20,karyawan_swasta,700,baik,2025-03-20
+544,947734740,Arley Lintott,2444 Drewry Center,8000000,7000000,49,karyawan_swasta,832,baik,2025-05-25
+545,971024673,Patricio Weeds,11 Westerfield Drive,9000000,7000000,46,pns,668,baik,2025-05-10
+546,928870337,Rora Stollery,73 Hudson Street,13000000,11000000,43,karyawan_swasta,738,baik,2025-05-12
+547,977985584,Quintana Vannacci,0 Mitchell Center,11000000,13000000,22,wirausaha,829,baik,2025-01-20
+548,924398371,Deedee Saxby,08608 Declaration Center,7000000,8000000,30,karyawan_swasta,657,baik,2024-11-02
+549,969596014,Emmalee Edrich,80 Ohio Court,15000000,17000000,24,wirausaha,755,baik,2025-03-09
+550,990511968,Vi Schroter,2142 Westport Pass,14000000,13000000,29,wirausaha,685,baik,2024-11-22
+551,981728673,Mitch Heart,90 Burning Wood Road,14000000,12000000,39,wirausaha,718,baik,2025-02-28
+552,990971892,Nico Rogans,88 Weeping Birch Court,12000000,14000000,27,pns,686,baik,2024-12-06
+553,975267915,Inger Grodden,9 West Way,11000000,12000000,22,karyawan_swasta,738,baik,2024-11-28
+554,995955077,Isidoro Petchell,74 Oak Road,5000000,6000000,32,wirausaha,822,baik,2025-06-18
+555,938854567,Annalise Mil,6 Golf Course Street,13000000,11000000,46,wirausaha,600,baik,2025-02-23
+556,921582087,Trudey Cawtheray,5 Graedel Junction,11000000,13000000,24,wirausaha,643,baik,2024-12-28
+557,991339100,Torr Denisyev,1476 New Castle Center,9000000,8000000,53,wirausaha,713,baik,2025-09-04
+558,914318979,Shelby Ashmole,37 Ridge Oak Alley,14000000,12000000,33,karyawan_swasta,698,buruk,2024-09-19
+559,982301662,Samara Durram,2893 Rutledge Center,11000000,12000000,41,karyawan_swasta,665,baik,2025-01-19
+560,948658524,Enrica Conry,003 Fairfield Hill,14000000,15000000,24,karyawan_swasta,627,buruk,2024-10-24
+561,944304971,Artemus Cota,640 Michigan Avenue,7000000,8000000,33,wirausaha,697,baik,2025-05-24
+562,906449670,Hansiain Cowope,45524 Pepper Wood Center,14000000,12000000,18,wirausaha,834,baik,2025-08-02
+563,959244532,Clarey Cummungs,09582 Annamark Point,7000000,6000000,26,wirausaha,752,baik,2025-07-26
+564,925906923,Wakefield Tottle,1 Nancy Parkway,12000000,14000000,43,wirausaha,850,baik,2025-07-15
+565,967571535,Ermina Imeson,71 Summerview Terrace,5000000,6000000,42,wirausaha,788,baik,2025-06-30
+566,959015435,Crin Corss,3 Mallard Road,13000000,15000000,38,pns,786,baik,2025-02-16
+567,992759097,Con Crucetti,04 Westport Court,7000000,8000000,18,wirausaha,696,baik,2025-02-09
+568,907364208,Dalt Mebs,4 Ridge Oak Circle,15000000,18000000,18,karyawan_swasta,612,baik,2025-05-10
+569,942171646,Tallie Swate,73733 Columbus Trail,9000000,10000000,41,wirausaha,655,buruk,2024-12-29
+570,953129151,Lenette Pilfold,81058 Florence Street,9000000,10000000,21,wirausaha,716,baik,2025-01-15
+571,978042860,Cecilius Worge,0 Hovde Center,16000000,14000000,39,wirausaha,598,baik,2025-03-04
+572,971927997,Gothart Carff,0110 Sunnyside Place,7000000,6000000,18,karyawan_swasta,728,baik,2025-08-19
+573,986940846,Lorrin Brewett,9 Dixon Plaza,12000000,14000000,33,wirausaha,721,baik,2025-01-17
+574,970412508,Manfred Mackness,76 High Crossing Circle,5000000,6000000,22,wirausaha,568,buruk,2025-09-12
+575,905802545,Lelah Bavister,772 Lakewood Gardens Junction,12000000,10000000,49,pns,648,baik,2025-06-24
+576,949352414,Ryon Lealle,8 Milwaukee Court,9000000,10000000,53,karyawan_swasta,731,baik,2025-04-10
+577,970060727,Hobart Meaney,44 Dunning Park,10000000,9000000,29,karyawan_swasta,678,baik,2024-12-30
+578,967898874,Doralia MacNeilley,38841 Village Avenue,14000000,12000000,40,karyawan_swasta,780,baik,2024-10-05
+579,989446005,Egor Girdler,397 Continental Crossing,13000000,15000000,18,wirausaha,822,baik,2025-06-19
+580,903237974,Hi Dinnage,68298 Erie Junction,9000000,10000000,29,karyawan_swasta,627,baik,2024-09-21
+581,989621022,Jaynell Course,23 Merchant Lane,9000000,11000000,52,karyawan_swasta,698,baik,2025-06-15
+582,981311205,Dalton Icke,14278 Elgar Junction,9000000,10000000,64,wirausaha,741,buruk,2024-12-17
+583,966745624,Aksel Moyser,2230 Colorado Road,9000000,11000000,59,pns,587,baik,2024-12-29
+584,909589256,Benyamin Dyche,773 Fulton Avenue,7000000,6000000,22,wirausaha,717,baik,2024-11-13
+585,995589358,Emmalyn Meegin,45276 Manley Parkway,11000000,12000000,42,wirausaha,688,baik,2025-08-01
+586,915204598,Verile Hubner,3 Pearson Circle,12000000,11000000,35,karyawan_swasta,715,baik,2025-07-29
+587,912437355,Trevor Hounson,827 Sutherland Road,8000000,9000000,23,karyawan_swasta,712,baik,2025-07-10
+588,949575118,Cory Schlagh,4 Eggendart Street,11000000,13000000,41,wirausaha,641,baik,2024-11-26
+589,903690315,Aubert O'Gormally,04297 Longview Plaza,8000000,9000000,54,wirausaha,694,buruk,2025-04-11
+590,979295094,Rorke Colleymore,48237 Lotheville Point,10000000,12000000,46,karyawan_swasta,637,baik,2025-08-02
+591,985678005,Nickolaus Mousley,0876 Lunder Hill,7000000,8000000,25,karyawan_swasta,664,baik,2024-10-01
+592,979447312,Fedora Dericot,5845 Kensington Parkway,9000000,10000000,43,wirausaha,603,buruk,2025-09-08
+593,955773099,Natty Young,60 Roth Junction,10000000,9000000,43,karyawan_swasta,691,baik,2025-03-21
+594,913242913,Rabbi Berget,9256 Nancy Court,12000000,14000000,48,pns,578,baik,2025-06-29
+595,986980109,Jayme Pomery,1625 Tennyson Place,9000000,11000000,39,pns,704,baik,2025-09-12
+596,949757916,Kennith Wellan,5 Hudson Lane,11000000,12000000,28,wirausaha,744,baik,2025-02-12
+597,919273994,Ailyn De Benedetti,2 Oak Terrace,12000000,14000000,39,pns,609,baik,2025-02-15
+598,991424070,Darsie Clabburn,0 Talisman Point,9000000,8000000,18,karyawan_swasta,800,baik,2024-10-12
+599,939269806,Alissa Abrahart,2 Grover Place,10000000,11000000,34,karyawan_swasta,648,baik,2025-06-29
+600,907488707,Madelle Whittleton,2476 Eastwood Circle,13000000,11000000,55,wirausaha,671,baik,2025-03-24
+601,964208682,Anita Scarlon,99219 Morning Way,12000000,14000000,34,wirausaha,665,baik,2025-02-17
+602,908565331,Eartha Klejna,348 Mockingbird Lane,9000000,10000000,21,wirausaha,790,baik,2024-09-24
+603,913561551,Merlina Bradley,607 Holy Cross Place,9000000,8000000,40,karyawan_swasta,682,buruk,2025-09-10
+604,904794464,Antin Jennery,48328 Pawling Street,11000000,13000000,26,karyawan_swasta,850,baik,2024-10-17
+605,972528831,Elnar Greenin,5 Ridge Oak Crossing,9000000,8000000,18,wirausaha,756,baik,2024-09-16
+606,944795420,Lynn Kegley,9 Lillian Lane,12000000,14000000,41,karyawan_swasta,661,baik,2025-02-24
+607,975361275,Nanete MacAdie,9 Village Green Alley,11000000,9000000,48,wirausaha,668,baik,2024-09-16
+608,935089742,Waylon Kayzer,59 Coleman Trail,9000000,10000000,55,karyawan_swasta,770,baik,2025-04-10
+609,909852368,Craggie Grahamslaw,09140 Oakridge Street,13000000,11000000,52,karyawan_swasta,739,baik,2024-10-01
+610,907504360,Ladonna Dougherty,427 Leroy Street,6000000,7000000,37,pns,639,baik,2024-09-24
+611,969079197,Lavinie Simmonite,3 Pleasure Street,11000000,12000000,21,wirausaha,840,baik,2024-12-19
+612,930942967,Bing Jonah,046 Valley Edge Point,16000000,18000000,37,karyawan_swasta,745,baik,2025-08-11
+613,905966770,Bear Blaszczyk,5356 Bartillon Crossing,6000000,5000000,47,karyawan_swasta,649,buruk,2025-08-25
+614,905926133,Elfrieda de Copeman,09637 Lawn Center,10000000,12000000,36,wirausaha,620,buruk,2025-07-31
+615,907302055,Kania Hutchens,34344 Jenifer Point,11000000,9000000,29,pns,777,baik,2024-12-31
+616,981298720,Glenden Broader,3814 Beilfuss Junction,15000000,17000000,37,karyawan_swasta,709,baik,2024-12-29
+617,917507582,Miquela Harring,8810 Bay Avenue,11000000,12000000,37,karyawan_swasta,632,baik,2025-01-17
+618,924302532,Steffane Gass,90736 Bayside Pass,6000000,5000000,20,karyawan_swasta,665,baik,2025-01-19
+619,994190165,Englebert Shird,3549 Glacier Hill Trail,9000000,11000000,39,wirausaha,769,baik,2024-10-04
+620,978623527,Pyotr Isacsson,0384 Hooker Court,12000000,10000000,37,karyawan_swasta,659,baik,2025-05-28
+621,924534384,Rakel Bate,2030 5th Crossing,14000000,16000000,19,wirausaha,710,baik,2025-06-24
+622,946131866,Vanya Egger,95420 Di Loreto Junction,5000000,6000000,31,karyawan_swasta,839,baik,2025-05-07
+623,914417372,Hortensia Melonby,871 Main Hill,10000000,12000000,29,karyawan_swasta,791,baik,2025-04-22
+624,947378741,Juanita Childrens,528 High Crossing Center,5000000,6000000,35,wirausaha,829,baik,2025-08-04
+625,970039326,Gail Olanda,4028 Tennyson Junction,18000000,20000000,18,karyawan_swasta,681,baik,2024-11-22
+626,998681532,Hanna Kemer,72 Warrior Lane,13000000,11000000,26,pns,680,buruk,2025-04-20
+627,959544647,Leigha Manoelli,69923 Basil Drive,6000000,7000000,18,karyawan_swasta,612,buruk,2024-11-28
+628,914642073,Courtenay Burdell,71983 Elka Parkway,10000000,9000000,27,karyawan_swasta,775,baik,2024-12-24
+629,912203059,Demeter Colbron,02 5th Road,10000000,12000000,57,wirausaha,599,baik,2025-07-28
+630,974506200,Angelita Farnham,2130 Merry Terrace,6000000,7000000,61,wirausaha,664,baik,2025-07-07
+631,925526733,Miquela Penhale,0 Clyde Gallagher Junction,15000000,18000000,51,pns,681,buruk,2024-11-08
+632,928137139,Elene Nizet,0 Anzinger Trail,9000000,8000000,38,wirausaha,677,baik,2024-12-06
+633,907893250,Salli Crowthe,9022 Fisk Center,14000000,16000000,36,karyawan_swasta,717,baik,2025-06-18
+634,978343785,Del Brandon,4064 Scofield Terrace,11000000,12000000,19,wirausaha,526,baik,2025-06-04
+635,950272644,Paulie Duddell,06227 6th Court,9000000,11000000,27,karyawan_swasta,738,baik,2025-04-26
+636,981288832,Teena Turville,162 Sycamore Parkway,6000000,7000000,20,pns,761,baik,2025-06-20
+637,918728880,Robert Akeherst,80435 Artisan Point,9000000,8000000,49,wirausaha,812,baik,2025-01-12
+638,907401585,Andrej Koopman,8 Stang Drive,15000000,12000000,44,pns,805,baik,2025-03-06
+639,962377500,Jacqui Caris,42 Butternut Drive,5000000,4000000,46,wirausaha,587,baik,2025-08-16
+640,920583530,Archaimbaud Londors,46 Jana Parkway,10000000,12000000,29,karyawan_swasta,689,baik,2025-09-06
+641,909676678,Newton Robotham,99 Dayton Street,8000000,9000000,20,wirausaha,684,baik,2024-09-18
+642,996363069,Dorice Budik,780 Mitchell Street,5000000,4000000,32,karyawan_swasta,811,baik,2025-01-15
+643,993008091,Leif Orlton,88 Sunfield Plaza,15000000,13000000,42,pns,799,baik,2024-10-06
+644,980048365,Pat Sicily,48698 Valley Edge Crossing,15000000,17000000,37,wirausaha,648,baik,2025-07-13
+645,979543303,Rebeka Willsmore,11 Lillian Parkway,7000000,8000000,32,karyawan_swasta,675,baik,2025-01-08
+646,924121972,Ethel Chaffer,7502 Carey Court,9000000,10000000,31,wirausaha,562,baik,2025-09-05
+647,968132132,Augustin Callan,1 Maple Lane,10000000,11000000,28,karyawan_swasta,651,baik,2025-01-20
+648,996392376,Niels Cockrill,1 Vermont Court,7000000,6000000,48,karyawan_swasta,822,baik,2024-09-21
+649,984123186,Staci Nattriss,9076 New Castle Way,6000000,7000000,44,pns,646,baik,2024-10-20
+650,977865329,Gustavus Bust,0 Maple Wood Street,8000000,9000000,33,wirausaha,763,baik,2025-05-26
+651,982680413,Clywd Paraman,9258 Trailsway Hill,10000000,12000000,31,karyawan_swasta,661,baik,2025-02-07
+652,917819158,Rossy Houldcroft,5 Artisan Alley,5000000,4000000,24,wirausaha,584,baik,2024-12-05
+653,915199122,Walt Harring,351 Kennedy Crossing,10000000,8000000,37,wirausaha,822,baik,2025-07-31
+654,911607752,Willey Porrett,51526 Oxford Hill,12000000,13000000,39,karyawan_swasta,684,baik,2025-01-08
+655,972016604,Karalynn McCook,2 Mandrake Avenue,8000000,9000000,28,karyawan_swasta,562,buruk,2024-10-17
+656,990726701,Kimball Bardsley,0361 Reinke Hill,14000000,16000000,35,wirausaha,667,baik,2025-07-18
+657,962315695,Lauren Allon,912 West Avenue,14000000,17000000,45,wirausaha,598,baik,2025-01-30
+658,920167032,Melita Plevin,65031 Kenwood Court,8000000,9000000,46,wirausaha,810,baik,2024-10-16
+659,959021725,Christiano Flatt,30 Jana Court,10000000,9000000,63,wirausaha,606,baik,2025-03-28
+660,908140283,Cherye Moughton,54473 Toban Lane,9000000,10000000,18,karyawan_swasta,744,baik,2025-04-25
+661,943946796,Kacie Keese,14935 Bay Court,13000000,14000000,31,wirausaha,702,baik,2025-01-31
+662,981131940,Prudence West,6602 Ronald Regan Hill,9000000,8000000,18,wirausaha,847,baik,2025-08-05
+663,978320639,Alexandro Mazillius,43528 Manufacturers Crossing,9000000,8000000,33,karyawan_swasta,674,buruk,2025-08-12
+664,917440533,Nady Budden,535 Kim Junction,7000000,8000000,48,wirausaha,768,baik,2024-10-05
+665,949761101,Haskell Mullane,416 Continental Circle,10000000,11000000,47,wirausaha,642,baik,2024-11-24
+666,918535290,Whitaker Caret,9065 Transport Pass,11000000,12000000,37,karyawan_swasta,547,baik,2024-11-04
+667,929062255,Tiffani Baxstare,82666 Maywood Plaza,15000000,13000000,32,karyawan_swasta,787,baik,2025-09-01
+668,902906262,Marnia Pleass,064 Mayer Terrace,6000000,5000000,53,wirausaha,622,baik,2024-09-17
+669,901094530,Ara Betancourt,997 Debs Road,7000000,8000000,26,karyawan_swasta,738,baik,2024-11-05
+670,929490578,Montague Benet,981 Parkside Place,13000000,15000000,66,wirausaha,766,baik,2025-03-01
+671,985864871,Andromache Paulon,68086 Hallows Street,5000000,6000000,34,karyawan_swasta,652,baik,2025-04-02
+672,955394038,Charlotta Timothy,86921 Pine View Place,11000000,10000000,18,wirausaha,641,baik,2024-12-16
+673,990814740,Skippy Dudderidge,7 Comanche Way,5000000,4000000,36,wirausaha,764,baik,2024-12-01
+674,909757809,Conn Stansby,36003 4th Drive,10000000,12000000,26,pns,719,baik,2025-01-26
+675,946218496,Herrick Donativo,366 Erie Drive,8000000,9000000,18,wirausaha,625,buruk,2025-08-06
+676,983230906,Thekla Tulk,243 Independence Plaza,5000000,6000000,41,karyawan_swasta,745,baik,2025-04-24
+677,916652348,Roy Thewlis,8719 Mitchell Junction,9000000,8000000,37,wirausaha,766,baik,2025-07-27
+678,942746476,Zedekiah Janousek,9767 Donald Center,8000000,9000000,19,karyawan_swasta,786,baik,2025-06-11
+679,920128375,Deana Swetland,1486 New Castle Center,9000000,8000000,45,wirausaha,616,baik,2025-06-19
+680,967705863,Vincenz Monaghan,660 Cottonwood Alley,9000000,10000000,25,pns,708,baik,2025-08-13
+681,918379430,Barnett Croughan,3760 Coolidge Terrace,16000000,14000000,30,wirausaha,701,baik,2025-04-10
+682,940063217,Jonathon January 1st,80 Sachtjen Pass,11000000,13000000,38,wirausaha,697,baik,2025-01-16
+683,946470173,Gustav Marmyon,88 Blue Bill Park Junction,11000000,13000000,21,wirausaha,722,baik,2025-01-15
+684,906643205,Ailsun Cusworth,2 Springview Terrace,11000000,10000000,44,karyawan_swasta,738,baik,2025-02-01
+685,924899469,Casper Mingardi,33 Dawn Lane,13000000,14000000,41,karyawan_swasta,555,baik,2025-05-30
+686,995871050,Bale Lambarth,6 Vernon Crossing,14000000,16000000,18,pns,690,buruk,2024-11-05
+687,977595263,Hyacinthie Kondratowicz,623 Twin Pines Park,12000000,10000000,50,wirausaha,612,baik,2025-01-30
+688,975674316,Jorgan Ghilardi,3031 Garrison Center,14000000,15000000,30,wirausaha,739,baik,2025-05-15
+689,935995170,Allison Rhead,1 Kings Street,16000000,13000000,46,wirausaha,622,baik,2025-04-09
+690,921513869,Ardeen Castelijn,36 Miller Park,15000000,17000000,34,wirausaha,818,baik,2024-10-17
+691,996258926,Husain Frarey,9 Superior Hill,12000000,13000000,43,wirausaha,647,baik,2024-12-26
+692,940208593,La verne Deware,4724 Carberry Junction,12000000,13000000,45,wirausaha,655,baik,2025-01-23
+693,935923979,Hannis Float,3182 Marquette Trail,8000000,7000000,24,wirausaha,700,baik,2025-02-02
+694,905082910,Eve Ryley,817 Lerdahl Lane,9000000,11000000,28,karyawan_swasta,666,baik,2025-02-01
+695,988468333,Fredek Maginn,1 Talisman Point,12000000,11000000,54,karyawan_swasta,606,baik,2024-10-16
+696,974901316,Celestyn Thiem,6 Sunfield Alley,10000000,12000000,36,karyawan_swasta,612,baik,2024-10-30
+697,997145698,Meta Hulk,0693 Fairview Drive,17000000,20000000,25,karyawan_swasta,733,baik,2025-02-12
+698,908884895,Brocky Speares,603 Nelson Junction,8000000,9000000,28,pns,696,baik,2024-12-09
+699,950685093,Rocky Witling,56165 Southridge Drive,10000000,12000000,36,wirausaha,624,baik,2025-05-18
+700,911972305,Rex Dodsley,05 John Wall Crossing,5000000,4000000,42,karyawan_swasta,673,baik,2025-04-22
+701,911385974,Britteny Coldtart,466 Tennessee Plaza,12000000,10000000,32,wirausaha,798,baik,2025-07-23
+702,968854741,Cullin Sutherland,340 Erie Pass,13000000,15000000,49,karyawan_swasta,680,baik,2025-08-07
+703,967026782,Arley Ferson,576 Dunning Terrace,15000000,17000000,37,karyawan_swasta,697,baik,2024-09-25
+704,926469078,Ammamaria Goring,849 Warbler Court,10000000,11000000,38,wirausaha,679,baik,2025-08-05
+705,919069113,Dunstan Pedycan,2 Shelley Circle,6000000,7000000,47,wirausaha,649,baik,2024-10-23
+706,916514490,Lari Karolyi,70 Warbler Street,11000000,13000000,21,wirausaha,850,baik,2025-04-24
+707,964969361,Torrie De La Coste,873 Green Ridge Trail,14000000,17000000,46,wirausaha,601,baik,2024-10-16
+708,933862720,Henrietta Czajka,1998 Gulseth Alley,12000000,14000000,44,wirausaha,694,baik,2024-09-26
+709,920961744,Dorothy Hilley,1 Pennsylvania Park,10000000,8000000,32,wirausaha,588,buruk,2025-02-13
+710,989312216,Abbe Wilfinger,8 Arrowood Plaza,10000000,12000000,27,wirausaha,674,baik,2025-03-08
+711,943883644,Kerri Jeness,0562 Kim Circle,12000000,14000000,49,wirausaha,777,baik,2024-12-10
+712,944039817,Harli Kennewell,6194 Meadow Vale Drive,13000000,15000000,29,karyawan_swasta,572,buruk,2025-07-06
+713,967957954,Eudora Pipkin,175 Brown Plaza,12000000,14000000,35,wirausaha,770,baik,2025-07-06
+714,989947134,Kit Ochterlonie,25743 Hudson Center,15000000,17000000,18,wirausaha,684,baik,2025-09-06
+715,984586375,Elwin Swinnerton,86 Gale Avenue,11000000,12000000,51,pns,568,buruk,2024-12-19
+716,965544268,Silva Milksop,03666 Coolidge Parkway,12000000,14000000,18,wirausaha,663,buruk,2025-02-10
+717,992250007,Ryann Perrington,4736 Cardinal Court,6000000,7000000,36,karyawan_swasta,672,baik,2024-12-13
+718,904181913,Vincent Hayselden,305 Ridgeway Circle,9000000,10000000,36,wirausaha,693,baik,2025-01-22
+719,991799658,Holden Parkyn,2 Oriole Drive,15000000,13000000,48,wirausaha,688,baik,2024-12-17
+720,977894273,Jo Bullar,2 Tomscot Pass,10000000,11000000,24,pns,720,baik,2025-03-11
+721,955821028,Clarence Yokel,7 Schlimgen Junction,12000000,10000000,33,wirausaha,668,baik,2025-05-07
+722,986519163,Andres Moreing,729 Coleman Junction,11000000,10000000,18,karyawan_swasta,679,baik,2025-02-04
+723,922475279,Temple Emblow,3857 Declaration Park,11000000,12000000,44,karyawan_swasta,578,baik,2025-05-11
+724,909759742,Sashenka Bernot,2917 Schmedeman Trail,13000000,15000000,32,karyawan_swasta,850,baik,2025-07-27
+725,981765217,Reinwald Simkiss,40 Gulseth Parkway,8000000,9000000,51,wirausaha,639,baik,2025-07-17
+726,928636138,Beryl Tringham,4617 Dahle Court,9000000,11000000,26,wirausaha,823,baik,2024-10-23
+727,943530809,Weber Brech,8737 Knutson Avenue,5000000,6000000,26,wirausaha,761,baik,2025-06-28
+728,902474925,Roderick Searl,7 Maywood Road,5000000,4000000,43,wirausaha,649,baik,2025-08-29
+729,926430340,Vina Kordas,1614 Bartelt Court,14000000,12000000,34,wirausaha,651,baik,2024-09-25
+730,989546405,Darelle Jarrett,1 Sage Alley,5000000,6000000,51,wirausaha,770,baik,2024-12-03
+731,932285420,Darb Frankcombe,5 Cherokee Point,14000000,12000000,29,wirausaha,653,buruk,2025-02-24
+732,919887061,Parke Mollison,7198 Mallory Place,9000000,8000000,49,wirausaha,641,buruk,2025-08-30
+733,994340353,Micheline Ahrens,81 Waxwing Hill,8000000,9000000,36,wirausaha,656,baik,2025-03-24
+734,926951838,Timotheus Cahillane,69540 Anniversary Parkway,7000000,8000000,37,wirausaha,705,baik,2025-03-07
+735,998421805,Timoteo Coen,01527 Stuart Place,6000000,7000000,18,wirausaha,712,baik,2025-09-14
+736,938266273,Shana Tills,4980 Transport Drive,13000000,15000000,42,karyawan_swasta,641,baik,2024-10-29
+737,969536051,Merci Suddick,26 Oak Valley Plaza,14000000,16000000,51,wirausaha,724,baik,2025-05-20
+738,964780983,Waldo Morden,988 Morningstar Court,11000000,13000000,37,wirausaha,527,baik,2024-12-29
+739,922792331,Lilla Von Helmholtz,466 Lakewood Hill,13000000,15000000,24,wirausaha,522,baik,2025-05-15
+740,911980716,Isabelita Glenn,04249 Sauthoff Hill,7000000,6000000,36,wirausaha,790,baik,2024-10-17
+741,967481728,Allard Telling,322 Graceland Lane,15000000,13000000,18,karyawan_swasta,668,baik,2025-02-22
+742,941954426,Antonius Mackrill,54565 Eggendart Lane,9000000,10000000,42,wirausaha,726,baik,2025-05-28
+743,972531811,Winn Tankin,40 Doe Crossing Avenue,7000000,8000000,35,wirausaha,827,baik,2025-05-07
+744,993815217,Janis Placido,55116 Welch Avenue,5000000,6000000,27,wirausaha,597,buruk,2025-01-31
+745,900047289,Byrom Fyndon,8 Holy Cross Crossing,12000000,14000000,55,karyawan_swasta,722,baik,2025-09-02
+746,930848815,Cece Janicki,996 Veith Lane,8000000,7000000,48,karyawan_swasta,644,baik,2025-07-12
+747,905822845,Margo Slimings,6202 Milwaukee Circle,10000000,11000000,49,wirausaha,735,baik,2025-03-09
+748,959527138,Gasparo Haville,1 Buell Crossing,10000000,12000000,48,wirausaha,850,baik,2025-07-18
+749,951001002,Jeannette Maingot,30 Dryden Street,12000000,10000000,63,wirausaha,808,baik,2025-08-08
+750,906212865,Trenna Dearness,31 Starling Place,13000000,15000000,37,wirausaha,633,baik,2025-05-06
+751,976229783,Andre Shepherdson,13834 Burning Wood Pass,11000000,9000000,46,wirausaha,850,baik,2024-12-17
+752,943939458,Hardy Dominicacci,343 Commercial Crossing,11000000,10000000,40,karyawan_swasta,713,baik,2024-09-22
+753,911128483,Jesus Martinson,1028 Vidon Lane,10000000,11000000,26,wirausaha,763,baik,2025-05-29
+754,996976820,Roshelle Sheldon,00 Kedzie Street,15000000,17000000,46,wirausaha,775,baik,2025-09-11
+755,912501195,Katusha Schutt,614 Granby Court,10000000,11000000,33,wirausaha,676,baik,2025-04-16
+756,906443146,Karel Luetkemeyers,69863 International Park,6000000,5000000,35,wirausaha,839,baik,2025-06-15
+757,950196972,Leilah Belin,9 Westerfield Place,13000000,12000000,18,karyawan_swasta,693,buruk,2025-04-22
+758,953793962,Lesli Winchurst,970 Duke Place,11000000,10000000,36,wirausaha,601,buruk,2025-07-01
+759,998314782,Forrester Mathiot,637 Hayes Avenue,14000000,16000000,33,wirausaha,636,buruk,2025-08-29
+760,901239209,Saraann Verner,92 Eggendart Place,14000000,12000000,45,karyawan_swasta,790,baik,2025-06-24
+761,936235025,Ursula Donnan,29 Luster Parkway,11000000,13000000,25,karyawan_swasta,691,baik,2025-02-09
+762,952746883,Biddy Bunson,808 Gulseth Circle,10000000,11000000,33,wirausaha,738,baik,2024-10-04
+763,953362869,Fidelio Cadman,13 Carberry Crossing,11000000,13000000,20,karyawan_swasta,749,baik,2025-03-20
+764,936166271,Tansy Derricoat,7144 5th Road,9000000,10000000,50,wirausaha,703,baik,2024-11-23
+765,998561071,Raine Chiplin,99 Moose Court,15000000,17000000,31,wirausaha,650,buruk,2025-03-31
+766,957885151,Evan Menear,27 Anhalt Junction,7000000,6000000,18,wirausaha,659,buruk,2025-02-25
+767,972890914,Julia Rennebeck,006 Hovde Way,13000000,15000000,35,wirausaha,817,baik,2025-06-08
+768,907684973,Ramonda Climar,7727 Briar Crest Junction,16000000,18000000,36,wirausaha,812,baik,2024-11-10
+769,990122485,Nickolai O'Regan,44565 Forest Pass,12000000,14000000,28,karyawan_swasta,819,baik,2024-12-22
+770,936779049,Jamison Tothe,8 Moland Court,8000000,9000000,56,karyawan_swasta,741,baik,2025-02-26
+771,980307968,Weston Simonyi,24698 Forest Dale Terrace,13000000,11000000,60,karyawan_swasta,784,baik,2024-11-07
+772,942694640,Hedvig Thurgood,9 Summerview Plaza,8000000,7000000,18,karyawan_swasta,620,baik,2025-02-07
+773,986653641,Lemar McFadin,56 3rd Center,7000000,8000000,22,karyawan_swasta,777,baik,2024-10-16
+774,964484665,Willie Isham,59506 Grasskamp Trail,10000000,11000000,38,karyawan_swasta,753,baik,2024-09-29
+775,908711382,Leeanne Zanuciolii,53 Eliot Plaza,9000000,10000000,23,wirausaha,681,baik,2024-11-06
+776,967303321,Stephannie Daens,90 Maywood Pass,13000000,11000000,33,karyawan_swasta,850,baik,2025-05-08
+777,989637564,Giralda McLugish,55 Crowley Circle,11000000,12000000,37,wirausaha,684,baik,2025-05-10
+778,990424626,Laurice Krahl,3 Comanche Parkway,11000000,13000000,47,wirausaha,782,baik,2025-08-06
+779,924223817,Noach Wahner,4 Derek Avenue,12000000,14000000,35,wirausaha,796,baik,2024-10-14
+780,955474957,Chauncey Whicher,39012 Anhalt Circle,11000000,12000000,32,karyawan_swasta,849,baik,2025-02-13
+781,986969460,Locke Entwisle,9 Scoville Way,13000000,11000000,47,pns,619,baik,2024-10-27
+782,941521405,Karel Stitwell,495 Harper Center,14000000,15000000,32,pns,784,baik,2025-08-25
+783,986229457,Elyse Ricket,7904 Portage Crossing,7000000,6000000,18,pns,679,baik,2024-10-08
+784,911004016,Harman Claypole,024 Jay Lane,5000000,4000000,48,wirausaha,781,baik,2025-01-06
+785,904024489,Maddy Aldington,29 Lyons Court,6000000,7000000,34,karyawan_swasta,647,buruk,2025-03-25
+786,939224064,Vaughn Casillas,1 Union Lane,10000000,8000000,30,wirausaha,529,buruk,2025-07-08
+787,990957006,Bondie Racine,016 Summerview Parkway,8000000,7000000,28,wirausaha,676,baik,2025-04-11
+788,937897554,Gratia Short,16 Upham Way,14000000,16000000,50,wirausaha,641,baik,2024-09-23
+789,940243123,Marylee Caldicot,81013 Barnett Road,8000000,9000000,42,pns,744,baik,2025-07-27
+790,909994154,Duncan Prickett,95 Anhalt Court,8000000,9000000,36,wirausaha,539,baik,2024-12-03
+791,987363196,Elysha Pauley,2 Summer Ridge Parkway,8000000,7000000,56,wirausaha,593,baik,2025-07-16
+792,959320137,Raddie Rathbone,9 Leroy Point,9000000,10000000,32,karyawan_swasta,714,baik,2024-12-27
+793,992047390,Hephzibah Readwin,63532 Schiller Drive,5000000,6000000,37,wirausaha,597,baik,2025-02-15
+794,985906469,Crystie Matushevitz,3860 Macpherson Trail,10000000,9000000,32,wirausaha,696,baik,2025-03-20
+795,976414795,Oates Leeds,7205 Oak Avenue,10000000,11000000,52,wirausaha,678,baik,2024-09-23
+796,988611140,Lyndell Gaenor,23 Morning Plaza,11000000,10000000,55,wirausaha,636,baik,2025-02-19
+797,940369103,Inglis Enright,70 Artisan Park,11000000,9000000,46,wirausaha,765,buruk,2025-07-02
+798,908774754,Lesley Robbie,02978 Mayfield Point,6000000,7000000,57,karyawan_swasta,593,baik,2025-08-04
+799,995281269,Ramona Nowakowska,92530 Barnett Place,12000000,14000000,61,wirausaha,549,baik,2024-10-30
+800,953292326,Rosanna Wohler,7196 Green Place,12000000,10000000,53,wirausaha,692,baik,2025-08-28
+801,936702721,Karina Reisen,7 Almo Terrace,8000000,9000000,28,wirausaha,786,baik,2025-03-04
+802,939917458,Mack Sex,16 Gulseth Street,9000000,11000000,45,wirausaha,786,baik,2025-02-14
+803,903768191,Rosemonde McMoyer,19 Thierer Hill,11000000,13000000,18,wirausaha,785,baik,2025-08-12
+804,966093269,Augustine Meadley,475 New Castle Trail,6000000,7000000,35,wirausaha,772,baik,2025-09-06
+805,961581251,Trevor Itzcovichch,833 Parkside Lane,9000000,10000000,18,karyawan_swasta,700,baik,2024-12-11
+806,959050007,Danila Pegrum,78028 Westerfield Way,12000000,10000000,41,karyawan_swasta,679,baik,2025-06-16
+807,997149398,Amaleta Pyle,9412 Vidon Drive,6000000,7000000,36,karyawan_swasta,753,baik,2025-08-25
+808,916338979,Jacquie Lennon,421 Haas Court,11000000,12000000,67,wirausaha,765,baik,2025-04-19
+809,944603635,Karlene Cullum,2815 Muir Plaza,9000000,10000000,18,wirausaha,769,baik,2024-12-20
+810,995018751,Weber Greatbanks,20 Golf Crossing,9000000,10000000,57,pns,685,baik,2024-09-30
+811,987484231,Ahmad Attwool,18 Mitchell Crossing,17000000,15000000,38,pns,733,baik,2024-12-26
+812,992940208,Aleece McGuinness,3065 Merry Point,5000000,6000000,36,wirausaha,684,baik,2025-03-29
+813,953345657,Jacky Bleackly,6021 Troy Place,12000000,14000000,60,pns,678,baik,2025-05-13
+814,919456493,Ethelred Zumbusch,37006 Vahlen Circle,13000000,15000000,58,karyawan_swasta,604,buruk,2025-07-06
+815,954589363,Iago Austins,711 Dixon Street,5000000,6000000,52,wirausaha,669,baik,2024-09-25
+816,958563912,Wynny Giovanardi,14 Blaine Park,9000000,11000000,28,wirausaha,761,baik,2025-05-30
+817,973360025,Evelyn Albarez,4725 Laurel Trail,12000000,10000000,61,pns,533,buruk,2024-09-19
+818,908890702,Fidel Wherton,82 Vermont Parkway,5000000,4000000,50,pns,815,baik,2024-11-20
+819,995861107,Trent Casella,60 Roth Drive,10000000,9000000,61,karyawan_swasta,573,baik,2025-08-22
+820,965773847,Ozzie Huyge,14209 Pierstorff Avenue,13000000,15000000,36,pns,814,baik,2025-06-19
+821,922821452,Micheil Grainger,559 Twin Pines Road,7000000,6000000,29,karyawan_swasta,788,baik,2024-12-25
+822,918091094,Clem De Cruze,3 Warrior Place,10000000,11000000,24,wirausaha,561,baik,2025-05-25
+823,923106601,Titos Tremmel,6946 Dorton Alley,10000000,11000000,50,karyawan_swasta,698,buruk,2025-03-17
+824,964248352,Cash Ducham,5 Scoville Circle,15000000,17000000,44,wirausaha,747,baik,2024-12-01
+825,957733791,Leonid Rouzet,257 Eastlawn Way,7000000,6000000,55,wirausaha,766,baik,2025-07-27
+826,970873906,Durand Skepper,1 Sugar Road,16000000,18000000,77,karyawan_swasta,850,baik,2024-12-16
+827,947389330,Zachery Alekseev,56 Roth Pass,6000000,5000000,36,wirausaha,764,baik,2025-01-18
+828,925193254,Willette Bartleman,3632 Stone Corner Street,9000000,10000000,32,wirausaha,635,baik,2025-03-09
+829,996468619,Galvin Mackro,2 Manley Parkway,5000000,4000000,29,wirausaha,776,baik,2025-03-22
+830,907852897,Kitti Domengue,18074 Redwing Avenue,14000000,16000000,37,wirausaha,632,baik,2025-07-13
+831,932267272,Luella Sibbson,64565 Tennessee Park,10000000,11000000,45,karyawan_swasta,781,baik,2024-11-15
+832,989844848,Millicent Windas,8 Mallory Parkway,10000000,11000000,51,karyawan_swasta,695,baik,2025-06-02
+833,967524127,Deane Frie,165 Blackbird Avenue,13000000,15000000,18,wirausaha,605,baik,2024-10-23
+834,989660410,Jenny Hinge,3 Park Meadow Pass,11000000,13000000,37,karyawan_swasta,612,buruk,2025-03-23
+835,952948591,Dean Ambrozewicz,0671 Straubel Point,9000000,10000000,52,karyawan_swasta,704,baik,2025-09-02
+836,937745472,Melisandra Jedrasik,2 Clyde Gallagher Crossing,14000000,16000000,66,pns,696,buruk,2025-07-28
+837,972814493,Cayla McKimmey,5 South Park,10000000,12000000,38,wirausaha,715,baik,2025-02-19
+838,945837469,Guthrey Bohlmann,1951 Rigney Street,10000000,12000000,49,karyawan_swasta,744,baik,2025-08-29
+839,950571061,Berna Pagen,1781 Blue Bill Park Parkway,11000000,9000000,31,karyawan_swasta,850,baik,2024-12-09
+840,990090497,Elaine Rastall,29377 Vidon Court,13000000,15000000,20,wirausaha,733,baik,2025-07-19
+841,935615266,Rudolph Lovick,5 Graedel Junction,5000000,6000000,34,karyawan_swasta,675,baik,2025-02-18
+842,908109468,Mollee Owthwaite,6 Atwood Trail,12000000,13000000,26,wirausaha,802,baik,2025-01-30
+843,998179307,Lynn Carlile,00163 Starling Drive,8000000,7000000,59,wirausaha,746,baik,2025-06-03
+844,975183054,Lynnette Ambage,5701 Village Circle,11000000,12000000,18,karyawan_swasta,546,buruk,2025-06-07
+845,919632611,Dennet Dannatt,7877 Memorial Place,11000000,9000000,38,wirausaha,735,baik,2024-12-02
+846,931106514,Shelli Digan,5 Coleman Crossing,12000000,14000000,28,karyawan_swasta,705,baik,2024-12-05
+847,993892994,Galina Rives,83615 Hudson Crossing,11000000,9000000,28,wirausaha,594,baik,2024-09-22
+848,980795128,Andy Welbelove,810 Maywood Road,13000000,16000000,18,karyawan_swasta,759,baik,2024-11-05
+849,946835767,Simon Tedahl,1618 Pennsylvania Street,11000000,13000000,35,wirausaha,695,baik,2024-09-20
+850,923624339,Allister Garvey,8230 Carpenter Pass,14000000,16000000,18,karyawan_swasta,734,baik,2024-10-09
+851,982292045,Markos Blackborne,7906 Warner Avenue,10000000,11000000,24,pns,529,buruk,2025-03-21
+852,967190659,Ronnie Hyndman,9750 5th Court,12000000,11000000,43,pns,730,baik,2024-10-08
+853,992225482,Courtney Marriot,19628 Columbus Road,12000000,14000000,48,wirausaha,668,baik,2025-08-18
+854,968967823,Marrissa Ondrak,66 Norway Maple Alley,10000000,12000000,20,wirausaha,636,baik,2025-02-22
+855,941919752,Sheena Girk,71 West Place,12000000,14000000,28,karyawan_swasta,696,baik,2024-11-04
+856,947974765,Shelly McGuiney,3 Bunting Way,11000000,10000000,20,karyawan_swasta,708,baik,2025-03-20
+857,967090563,Charla Gullefant,152 Macpherson Alley,10000000,8000000,24,pns,633,baik,2025-07-02
+858,934845013,Warner Beteriss,35 5th Alley,6000000,5000000,42,karyawan_swasta,724,baik,2025-08-14
+859,957282384,Cybill Roycroft,06 Corry Way,9000000,10000000,52,wirausaha,850,baik,2025-07-01
+860,979026754,Annemarie Dabinett,9 Anderson Hill,10000000,12000000,40,karyawan_swasta,663,baik,2025-03-13
+861,921430998,Marlene Boshere,934 Dayton Avenue,12000000,14000000,48,karyawan_swasta,814,baik,2024-12-14
+862,940892543,Rubin Pittford,7672 Drewry Road,10000000,11000000,41,karyawan_swasta,506,buruk,2025-07-07
+863,902963383,Kerrin Warmisham,781 Schmedeman Terrace,18000000,21000000,40,wirausaha,668,baik,2024-12-12
+864,937896291,Davine Gosnall,3 Farmco Center,5000000,4000000,36,pns,740,baik,2025-05-31
+865,994964009,Timi Wheeldon,9 Warbler Crossing,8000000,7000000,38,wirausaha,561,buruk,2025-07-25
+866,986140390,Gwen O'Looney,55 Schurz Lane,5000000,6000000,30,wirausaha,621,baik,2025-01-25
+867,943499502,Jim Harby,659 Pond Drive,10000000,12000000,31,karyawan_swasta,609,baik,2024-10-04
+868,913473394,Arlen Burfoot,8920 Macpherson Parkway,11000000,13000000,18,pns,613,baik,2024-09-27
+869,991991037,Langsdon Viveash,925 Kennedy Court,17000000,15000000,18,pns,804,baik,2025-08-23
+870,985351058,Llewellyn Noddings,079 Hollow Ridge Crossing,9000000,8000000,49,wirausaha,732,baik,2025-03-20
+871,907023249,Amelie De Metz,0 Holmberg Crossing,16000000,13000000,35,karyawan_swasta,699,buruk,2025-04-15
+872,985030233,Belinda Spackman,09655 Warrior Road,5000000,4000000,31,wirausaha,730,baik,2025-07-08
+873,995097490,Geno Wemm,432 Mayer Park,8000000,9000000,18,wirausaha,488,baik,2025-04-13
+874,963667546,Ines Vowden,108 Summer Ridge Alley,10000000,12000000,44,wirausaha,753,baik,2025-07-12
+875,980962585,Skyler Worsell,407 Hauk Point,7000000,8000000,32,karyawan_swasta,850,baik,2024-12-02
+876,932974550,Gillie Exeter,7 Ramsey Hill,16000000,18000000,47,wirausaha,727,baik,2024-12-14
+877,943403152,Aksel Reckless,1743 Esch Terrace,8000000,9000000,52,karyawan_swasta,497,baik,2025-06-18
+878,932555391,Augie Burvill,11 Dovetail Terrace,10000000,12000000,20,wirausaha,712,baik,2025-08-27
+879,970056525,Aurilia Cockerham,02 Independence Lane,14000000,16000000,25,karyawan_swasta,774,baik,2025-08-03
+880,920733008,Berti Simanek,5895 Manitowish Hill,13000000,11000000,40,wirausaha,770,baik,2025-02-04
+881,914676553,Weston Rickert,124 Weeping Birch Center,9000000,10000000,44,wirausaha,839,baik,2025-05-30
+882,938746377,Rita Attack,87148 Golf View Way,11000000,13000000,43,karyawan_swasta,850,baik,2025-01-18
+883,922431315,Rand Stienham,02664 Cody Terrace,15000000,12000000,57,wirausaha,601,baik,2025-06-03
+884,919896886,Linnea Colecrough,2 Mariners Cove Road,8000000,7000000,32,wirausaha,781,baik,2025-06-06
+885,928269768,Prinz Offord,378 Carberry Crossing,14000000,11000000,39,karyawan_swasta,692,buruk,2024-10-25
+886,995062566,Dot Fiddeman,9352 Holmberg Road,10000000,11000000,35,karyawan_swasta,730,baik,2025-05-15
+887,910828480,Batsheva Burr,8 Mallory Terrace,6000000,7000000,50,wirausaha,678,baik,2025-04-09
+888,913422014,Eileen Caroli,66 Lerdahl Crossing,9000000,11000000,34,wirausaha,844,baik,2025-02-07
+889,944085271,Kari Loblie,639 Dryden Plaza,11000000,13000000,23,karyawan_swasta,599,baik,2024-09-20
+890,917835109,Darell Acuna,68454 Weeping Birch Alley,10000000,11000000,47,wirausaha,618,buruk,2024-12-20
+891,930854498,Ignace Danilishin,65774 Northport Parkway,12000000,14000000,34,wirausaha,653,baik,2025-04-24
+892,942542421,James McGinley,7 Carberry Alley,7000000,6000000,34,pns,618,baik,2025-05-10
+893,995988699,Carina Poznanski,52027 Derek Plaza,6000000,7000000,52,karyawan_swasta,684,baik,2025-01-20
+894,975029830,Venus Martin,2856 Kropf Avenue,10000000,12000000,40,wirausaha,818,baik,2025-07-24
+895,934019155,Greta Lammert,630 Montana Junction,17000000,20000000,18,karyawan_swasta,655,baik,2025-08-07
+896,951570737,Judd Domelow,070 Rigney Street,11000000,9000000,58,pns,760,baik,2025-07-19
+897,901482370,Clemmie Kitlee,3 Declaration Center,8000000,6000000,44,wirausaha,637,baik,2025-01-10
+898,935785950,Debi Dolley,2701 Nova Center,13000000,15000000,30,karyawan_swasta,711,baik,2025-06-25
+899,981229949,Valencia Haggata,4712 Thierer Road,9000000,8000000,26,wirausaha,786,baik,2025-03-18
+900,975190662,Estele Oakey,9254 Kim Point,10000000,12000000,27,wirausaha,758,baik,2025-04-20
+901,959239243,Ellette Allmond,9 Westport Place,10000000,11000000,56,wirausaha,561,baik,2024-09-16
+902,968798706,Keary Harlett,1 Mariners Cove Pass,7000000,8000000,50,pns,703,baik,2025-01-03
+903,901076473,Brita Chilles,3661 Westerfield Point,12000000,14000000,40,wirausaha,764,baik,2024-10-24
+904,909243446,Feodora Coupar,20 Drewry Plaza,12000000,10000000,31,pns,747,baik,2024-12-06
+905,909128920,Rosalie Kelberer,17 Bowman Park,8000000,7000000,34,wirausaha,632,baik,2025-02-21
+906,940530372,Shaun McNeilley,176 Toban Pass,12000000,14000000,45,wirausaha,850,baik,2025-07-15
+907,960322590,Cary Dockray,820 Northridge Circle,18000000,21000000,50,wirausaha,684,baik,2025-04-04
+908,962426511,Torr Rawe,8 Banding Place,15000000,13000000,25,wirausaha,670,baik,2025-01-19
+909,954977884,Zabrina McDermot,9399 Russell Parkway,13000000,15000000,26,wirausaha,700,baik,2024-12-06
+910,958708248,Chariot Liddy,16269 Ruskin Park,6000000,7000000,31,wirausaha,666,buruk,2024-12-12
+911,938741101,Cassius Bordes,6 La Follette Terrace,9000000,10000000,28,wirausaha,601,buruk,2025-04-10
+912,955237923,Yorke Ottawell,66770 Fairfield Alley,10000000,9000000,62,pns,649,buruk,2025-09-12
+913,976309758,Harmonia Boeck,11719 Hoard Crossing,14000000,12000000,51,wirausaha,660,baik,2024-10-12
+914,941245306,Igor Airton,12 Petterle Point,7000000,8000000,38,karyawan_swasta,694,baik,2025-01-19
+915,936920853,Samantha Rosenfeld,57 Comanche Terrace,8000000,7000000,23,wirausaha,638,baik,2025-05-19
+916,902952568,Jennifer Strafford,03 Colorado Terrace,9000000,11000000,27,wirausaha,740,baik,2025-03-05
+917,986417704,Albina Padillo,1 Basil Road,9000000,10000000,38,pns,559,baik,2024-12-23
+918,991521429,Nannette de Chastelain,4 Pearson Plaza,9000000,10000000,51,wirausaha,659,baik,2024-12-13
+919,945285151,Jammie Paulon,0 Schlimgen Alley,12000000,14000000,33,karyawan_swasta,757,baik,2025-05-05
+920,976417432,Kessia Fewtrell,7600 Washington Parkway,5000000,6000000,33,wirausaha,680,baik,2025-05-02
+921,958432018,Penn Yoselevitch,207 Gina Road,10000000,11000000,33,wirausaha,721,baik,2025-06-16
+922,949801114,Daffi Vondrach,0563 1st Point,11000000,12000000,20,karyawan_swasta,701,baik,2025-06-28
+923,924952225,Cass Stothart,3517 Leroy Road,8000000,9000000,49,wirausaha,781,baik,2025-08-03
+924,989058086,Galvan Pickrell,98430 Alpine Court,11000000,13000000,19,wirausaha,618,baik,2024-11-13
+925,909071009,Francene Breen,36395 Comanche Junction,11000000,13000000,18,wirausaha,617,baik,2024-11-11
+926,969420935,Bev Angell,83838 Sunbrook Street,9000000,10000000,18,wirausaha,675,baik,2025-07-06
+927,933485968,Ches Bushel,57410 Amoth Alley,11000000,12000000,37,wirausaha,758,buruk,2025-07-09
+928,925327222,Kessia Behnecke,2709 Clemons Lane,11000000,9000000,33,wirausaha,780,baik,2025-04-27
+929,915799083,Arlin Luberto,3697 Nobel Pass,6000000,7000000,22,karyawan_swasta,697,baik,2025-01-25
+930,918070390,Francesca Geraldo,918 Evergreen Parkway,9000000,8000000,18,karyawan_swasta,699,baik,2024-12-17
+931,928167620,Phil Yitzhakov,64009 Havey Avenue,14000000,16000000,56,wirausaha,804,baik,2024-11-02
+932,939844251,Lari Jakubovits,3315 Oakridge Parkway,13000000,16000000,34,karyawan_swasta,677,baik,2024-09-22
+933,962473848,Teador Fensome,78 Burning Wood Avenue,9000000,10000000,44,pns,729,baik,2025-05-20
+934,981031742,Nikolai Tomasoni,69 Saint Paul Avenue,10000000,12000000,29,wirausaha,638,baik,2025-05-02
+935,958070610,Wadsworth Wenger,129 Meadow Valley Street,13000000,11000000,19,wirausaha,763,baik,2025-07-06
+936,967277576,Krystle Blint,21 Morningstar Junction,13000000,15000000,31,karyawan_swasta,577,baik,2025-09-02
+937,919444335,Tiebold Dingivan,76455 Springview Terrace,13000000,15000000,42,karyawan_swasta,654,baik,2025-05-19
+938,950787995,Kerrie Krienke,98092 Arapahoe Street,10000000,9000000,35,karyawan_swasta,548,buruk,2025-02-03
+939,995445149,Scarface Richfield,35 Vernon Hill,7000000,8000000,40,wirausaha,574,baik,2025-03-07
+940,998909180,Nicholas Statton,73 Lakeland Hill,6000000,7000000,47,karyawan_swasta,696,baik,2025-05-18
+941,990308092,Gweneth Monelle,84 Larry Place,10000000,11000000,40,wirausaha,683,baik,2024-11-16
+942,902774718,Mac Shillabeer,94629 Ohio Lane,5000000,6000000,41,wirausaha,640,baik,2025-09-02
+943,956652490,Lolly Rathe,12 8th Point,13000000,15000000,35,wirausaha,696,baik,2025-07-22
+944,972780687,Esme Redgrove,45 Butterfield Alley,8000000,9000000,25,karyawan_swasta,689,baik,2025-09-01
+945,907768118,Shara Wadworth,61 Anzinger Place,7000000,6000000,28,pns,722,baik,2024-10-23
+946,923207127,Midge Olorenshaw,5566 Magdeline Parkway,7000000,8000000,43,pns,680,baik,2025-01-21
+947,989847659,Say Eicke,090 Hovde Avenue,9000000,8000000,54,wirausaha,682,buruk,2024-09-26
+948,928874413,Roslyn Moral,0 Sullivan Pass,15000000,18000000,23,wirausaha,665,baik,2024-12-14
+949,952566042,Beverie Tutchener,5 Melody Pass,7000000,8000000,40,karyawan_swasta,704,baik,2025-06-11
+950,959981625,Fran Jodlowski,1 Jackson Alley,11000000,13000000,36,wirausaha,640,baik,2024-10-25
+951,907310243,Starla Linne,76212 Vera Way,10000000,8000000,35,wirausaha,735,buruk,2025-06-03
+952,998691975,Baillie Reede,1 Kinsman Court,13000000,11000000,41,wirausaha,837,baik,2025-02-01
+953,958873424,Gizela Haack,9 Nevada Terrace,6000000,5000000,44,wirausaha,761,baik,2025-09-06
+954,921057599,Tristam Quiddington,87627 Towne Alley,14000000,12000000,28,wirausaha,741,buruk,2024-12-07
+955,919843437,Chiarra Fynan,88 Oak Valley Crossing,12000000,11000000,18,wirausaha,693,baik,2025-05-24
+956,922290110,Mildred Milbank,607 Monica Center,12000000,14000000,34,wirausaha,584,buruk,2025-08-18
+957,905255017,Dominik Sackett,6 Harper Alley,12000000,14000000,33,karyawan_swasta,635,baik,2025-06-29
+958,989558100,Meg Crosdill,14 Rowland Trail,7000000,8000000,24,karyawan_swasta,781,baik,2025-09-15
+959,909525519,Penrod Bossom,308 Longview Plaza,6000000,7000000,55,wirausaha,674,baik,2025-03-24
+960,960800622,Oberon Robertot,0370 Rutledge Park,5000000,6000000,54,wirausaha,675,baik,2025-07-23
+961,929219405,Petronia Cressingham,92 Hazelcrest Place,10000000,12000000,38,pns,661,baik,2024-09-27
+962,912691778,Bee Kepe,13 Melvin Junction,6000000,7000000,36,wirausaha,631,baik,2025-04-23
+963,900019955,Odie Tichner,344 Sunnyside Avenue,9000000,8000000,50,wirausaha,663,baik,2024-10-16
+964,988837630,Bone Latty,79150 4th Court,9000000,11000000,41,wirausaha,653,baik,2025-06-12
+965,989097288,Karlyn De Brett,4 Stephen Plaza,8000000,7000000,35,karyawan_swasta,738,baik,2024-12-08
+966,990500664,Jinny Pickthorn,24 Kedzie Way,13000000,15000000,18,karyawan_swasta,586,buruk,2025-07-03
+967,983284375,Wrennie Wooderson,7655 Blackbird Parkway,14000000,12000000,29,karyawan_swasta,755,baik,2025-08-12
+968,976289918,Granville Harpur,20195 Forest Dale Pass,10000000,12000000,40,wirausaha,778,baik,2024-09-20
+969,999017498,Clementius Ockwell,584 Weeping Birch Center,13000000,11000000,61,wirausaha,579,buruk,2025-04-12
+970,998483763,Raina Seilmann,69511 Algoma Terrace,12000000,13000000,55,wirausaha,765,baik,2025-01-09
+971,987985658,Brittany Benninck,74 Norway Maple Circle,9000000,7000000,23,karyawan_swasta,694,baik,2025-01-07
+972,960292698,Nichol Sent,743 Bunting Lane,5000000,6000000,19,wirausaha,765,baik,2024-11-14
+973,935570738,Claudette Pozzi,042 Cascade Plaza,9000000,10000000,36,wirausaha,606,baik,2024-12-06
+974,901095038,Sheri Boyles,290 Lindbergh Hill,6000000,5000000,28,karyawan_swasta,701,baik,2024-11-07
+975,942113945,Ulrica Tilney,9 Cherokee Place,11000000,12000000,40,karyawan_swasta,789,baik,2025-06-10
+976,919687378,Bernete Fessier,3 Fremont Court,9000000,10000000,40,wirausaha,708,baik,2025-07-02
+977,983704593,Danie Stebbins,3695 Carioca Road,11000000,13000000,32,wirausaha,716,baik,2025-09-13
+978,934104503,Laure Fayers,7 Straubel Way,11000000,12000000,43,wirausaha,619,buruk,2024-10-03
+979,924525964,Wendie Jancso,0 Chinook Court,12000000,10000000,44,karyawan_swasta,758,baik,2025-07-08
+980,904140956,Shellie Bough,13249 Riverside Circle,5000000,6000000,31,pns,653,buruk,2025-02-14
+981,969559017,Kim Miguet,77524 Kings Road,7000000,8000000,25,karyawan_swasta,648,buruk,2025-04-03
+982,911812861,Virgie Origan,8 Talmadge Crossing,13000000,15000000,43,wirausaha,694,baik,2025-02-17
+983,947888750,Kylie Arnett,4744 Magdeline Park,9000000,8000000,39,karyawan_swasta,618,buruk,2024-12-07
+984,947889163,Marilyn Varndall,7175 Manitowish Avenue,9000000,11000000,20,karyawan_swasta,769,baik,2025-05-06
+985,903233052,Lois Sycamore,9 Scoville Place,10000000,12000000,38,wirausaha,721,baik,2025-03-19
+986,944059713,Jo-anne Beedon,711 Larry Avenue,13000000,11000000,46,pns,763,baik,2024-10-06
+987,929947991,Rowney Bartosch,04413 Vidon Road,11000000,13000000,47,pns,628,baik,2024-10-24
+988,941040988,Carlotta Silvers,945 Forster Crossing,6000000,7000000,18,wirausaha,659,baik,2025-04-19
+989,904189201,Davita Drable,875 Ohio Parkway,16000000,19000000,51,karyawan_swasta,597,baik,2024-12-14
+990,932770556,Godfrey Keepence,71276 Prairie Rose Junction,12000000,13000000,36,karyawan_swasta,646,buruk,2025-06-19
+991,942843347,Hermia Mulcock,7 Cordelia Street,10000000,12000000,31,karyawan_swasta,717,baik,2024-12-09
+992,972363112,Maryann McQuillan,47199 Donald Trail,8000000,9000000,21,wirausaha,665,baik,2025-01-17
+993,971013169,Mickie Vell,821 Mayer Parkway,11000000,12000000,34,wirausaha,621,baik,2025-04-15
+994,949970092,Sheffield Tapsell,70 Eastlawn Parkway,7000000,8000000,46,wirausaha,850,baik,2025-07-17
+995,956612721,Marci Shillinglaw,0 Northland Court,9000000,11000000,30,karyawan_swasta,661,baik,2024-10-21
+996,940505243,Vidovic Faulds,728 Jay Hill,11000000,13000000,18,karyawan_swasta,675,baik,2024-11-09
+997,912572064,Olive Szymanzyk,47 Bunker Hill Crossing,10000000,11000000,50,pns,622,baik,2025-01-19
+998,953872642,Che de Guise,65917 Algoma Plaza,9000000,11000000,26,wirausaha,676,baik,2025-09-12
+999,940155565,Cullan Murrell,951 Jenifer Avenue,13000000,14000000,18,karyawan_swasta,638,baik,2025-05-01
+1000,962114758,Olympie Pursehouse,52512 Colorado Lane,10000000,12000000,38,wirausaha,716,baik,2024-10-01
