@@ -1,0 +1,79 @@
+import pandas as pd
+from sqlalchemy import create_engine, text
+from datetime import datetime
+from resources.utils.db_conn import conn
+
+# DATABASE_URL = "postgresql://user:password@localhost:5432/dbname"
+DATABASE_URL = "postgresql://neondb_owner:npg_xW9ZyrD5sPNu@ep-plain-violet-a128g18u-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+engine = create_engine(DATABASE_URL)
+
+def extract_data(file_path):
+   """
+   Extract data dari file CSV lokal menggunakan Pandas.
+   """
+   print("Mengextract data dari CSV...")
+
+   # Menggunakan Pandas untuk membaca file CSV
+   df = pd.read_csv(file_path)
+   df['extracted_at'] = datetime.now()  # Tambahkan kolom waktu ekstraksi
+
+   print("Ekstraksi selesai.")
+   return df
+
+
+
+def transform_and_load_to_silver(source_table, target_table, source_schema='bronze', target_schema='silver'):
+   """
+   Mentransformasi data dari tabel Bronze dan meloadnya ke tabel Silver
+   menggunakan perintah SQL di dalam database.
+   """
+   print(f"Mentransformasi data dari '{source_schema}.{source_table}' ke '{target_schema}.{target_table}'...")
+
+   with engine.begin() as conn:
+       # Pastikan skema silver ada
+       conn.execute(text(f"CREATE SCHEMA IF NOT EXISTS {target_schema};"))
+
+       # Perintah SQL untuk mentransformasi dan meload data
+       # - Menghilangkan duplikat
+       # - Mengubah tipe data 'tanggal'
+       transformation_sql = f"""
+       CREATE TABLE {target_schema}.{target_table} AS
+       WITH ranked_data AS (
+           SELECT
+               *,
+               ROW_NUMBER() OVER(PARTITION BY id_transaksi ORDER BY tanggal_transaksi DESC) as rn
+           FROM
+               {source_schema}.{source_table}
+       )
+       SELECT
+           id_transaksi,
+           jenis_transaksi,
+           jumlah,
+           tanggal_transaksi::DATE
+       FROM
+           ranked_data
+       WHERE
+           rn = 1;
+       """
+
+       # Jalankan perintah SQL
+       conn.execute(text(f"DROP TABLE IF EXISTS {target_schema}.{target_table};"))
+       conn.execute(text(transformation_sql))
+
+   print("Transformasi dan load ke Silver berhasil!")
+
+# --- Eksekusi ---
+if __name__ == "__main__":
+   file_path    = 'transaksi_atm.csv'
+   bronze_table = 'transaksi_atm_raw'
+   silver_table = 'transaksi_atm_clean'
+
+   # 1. Extract data
+   df_raw = extract_data(file_path)
+
+   # 2. Load data mentah ke skema Bronze
+   load_to_bronze(df_raw, bronze_table)
+
+   # 3. Transformasi dan load ke skema Silver
+   transform_and_load_to_silver(bronze_table, silver_table)
+
