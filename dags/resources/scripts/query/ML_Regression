@@ -1,0 +1,90 @@
+I removed "nama", and "alamat". Try running using this code:
+
+#Machine Learning Query
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, r2_score
+# 1. Muat (Load) Dataset
+# Di sini Anda akan membaca file CSV yang sudah dibuat sebelumnya
+df = pd.read_csv('MOCK_DATA V2.csv')
+# Hapus kolom 'id_nasabah' karena tidak relevan untuk pemodelan
+df = df.drop('id_transaksi', axis=1)
+df = df.drop('id_rekening', axis=1)
+df = df.drop('nama', axis=1)
+df = df.drop('alamat', axis=1)
+df = df.drop('tanggal_data', axis=1)
+df
+
+
+
+# 2. Pra-pemrosesan Data (Feature Engineering & Encoding)
+# Mengubah variabel kategorikal menjadi numerik
+# Menggunakan LabelEncoder untuk 'riwayat_kredit' dan 'status_pekerjaan'
+le_kredit = LabelEncoder()
+df['riwayat_kredit'] = le_kredit.fit_transform(df['riwayat_kredit'])
+le_pekerjaan = LabelEncoder()
+df['status_pekerjaan'] = le_pekerjaan.fit_transform(df['status_pekerjaan'])
+df
+
+
+
+# 3. Pisahkan Fitur (X) dan Target (y)
+X = df.drop('Credit_Score', axis=1)
+y = df['Credit_Score']
+
+
+# 4. Normalisasi (Scaling) Data
+# Menggunakan StandardScaler untuk fitur numerik agar rentang datanya sama
+# Ini penting untuk beberapa algoritma ML
+scaler   = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+X_scaled = pd.DataFrame(X_scaled, columns=X.columns)
+X_scaled
+
+
+
+# 5. Bagi Data menjadi Data Latih dan Data Uji
+# Menggunakan 80% data untuk melatih model dan 20% untuk menguji
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
+len(X_train), len(X_test)
+
+
+
+# 6. Buat dan Latih Model Regresi
+# Menggunakan Random Forest Regressor, salah satu model regresi yang kuat
+model = RandomForestRegressor(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+
+
+
+# 7. Evaluasi Model
+# Lakukan prediksi pada data uji
+y_pred = model.predict(X_test)
+# Hitung metrik evaluasi
+mae = mean_absolute_error(y_test, y_pred)
+r2  = r2_score(y_test, y_pred)
+print(f"Mean Absolute Error (MAE): {mae:.2f}")
+print(f"R-squared (R2): {r2:.2f}")
+
+
+
+# 8. Prediksi Data Baru
+# Contoh: kita akan memprediksi Credit Score untuk nasabah baru
+# Data baru harus memiliki format yang sama dengan data latih
+data_nasabah_baru = pd.DataFrame([
+   ['10000000','11000000','52','wirausaha','baik']
+], columns=['jumlah_pinjaman','pendapatan_bulanan','usia_nasabah','status_pekerjaan','riwayat_kredit'])
+# Pra-pemrosesan data baru dengan transformer yang sama
+data_nasabah_baru['riwayat_kredit']   = le_kredit.transform(data_nasabah_baru['riwayat_kredit'])
+data_nasabah_baru['status_pekerjaan'] = le_pekerjaan.transform(data_nasabah_baru['status_pekerjaan'])
+data_nasabah_baru_scaled              = scaler.transform(data_nasabah_baru)
+# Prediksi menggunakan model yang sudah dilatih
+prediksi_credit_score = model.predict(data_nasabah_baru_scaled)
+print(f"Prediksi Credit Score untuk nasabah baru: {prediksi_credit_score[0]:.2f}")
+
+
+
+
