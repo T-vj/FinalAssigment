@@ -1,0 +1,26 @@
+import pandas as pd
+from sqlalchemy import create_engine, text
+from datetime import datetime
+from resources.utils.db_conn import conn
+
+# DATABASE_URL = "postgresql://user:password@localhost:5432/dbname"
+DATABASE_URL = "postgresql://neondb_owner:npg_xW9ZyrD5sPNu@ep-plain-violet-a128g18u-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+engine = create_engine(DATABASE_URL)
+
+
+def load_to_bronze(df, table_name='MART_LOAN_OFFER', schema='bronze', if_exists='replace'):
+   """
+   Meload DataFrame yang diextract langsung ke tabel di skema Bronze.
+   Tabel akan dibuat secara otomatis jika belum ada.
+   """
+   print(f"Meload data mentah ke tabel '{schema}.{table_name}'...")
+
+   # Menggunakan SQLAlchemy untuk meload DataFrame ke tabel
+   with engine.begin() as conn:
+       # Pastikan skema bronze ada
+       conn.execute(text(f"CREATE SCHEMA IF NOT EXISTS {schema};"))
+
+       # load data mentah
+       df.to_sql(name='MART_LOAN_OFFER', con=conn, schema=schema, if_exists=if_exists, index=False)
+
+   print("load data ke Bronze berhasil!")
